@@ -1,0 +1,52 @@
+---
+description: >-
+  Our view on the cryptocurrency market and the why we are bullish on the
+  potential of the industry
+cover: >-
+  https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
+coverY: 0
+---
+
+# Cryptocurrency Market
+
+2021 was a fantastic year for the cryptocurrency market.&#x20;
+
+Bitcoin hit multiple times to new all-time high prices, the institutional adoption has seen a significant increase and there was a big increase in total global adoption.
+
+People's interest in crypto is skyrocketing. It is not the same taboo topic from a few years ago. From vast increase of media coverage, to increase in credibility for long-term investors, to the popular culture style, the cryptocurrency market is here to stay.
+
+According with [data from Chainalysis](https://blog.chainalysis.com/reports/2021-global-crypto-adoption-index/), data suggests that global adoption has grown by over 2300% since Q3 2019 and over 881% in the last year of 2021. \
+\
+Reasons for increased adoption differ around the world:\
+&#x20;\
+In emerging markets, there has been a growing adoption motivated by the utility of cryptocurrencies to preserve their savings in the face of currency devaluation, send and receive remittances, and carry out business transactions.
+
+In North America, Western Europe, and Eastern Asia over 2021, it has been powered largely by institutional investment.&#x20;
+
+In a year when cryptocurrency prices rose dramatically, each region’s respective reasons to embrace the asset class seem to have proven compelling.
+
+The cryptocurrency market has reached new levels that were previously unimaginable years ago. Bitcoin, the first and biggest crypto asset in this market, appeared only 13 years ago, which compared to other financial assets used in the global economy, makes it to be at an early-stage.
+
+Currently (May 2022), this market has a market capitalization of approximately UDS 2 trillion, which equates to the most valuable company in the world - Apple.&#x20;
+
+Directly comparing it with Apple, allow us to understand the growth potential of the industry.&#x20;
+
+Contrary with a single company, the cryptocurrency industry is powered by tens of thousands of different players competing, but at the same time working in synergy to drive user adoption into the industry.
+
+Every project on the industry works with marketing, these efforts lead to a future growing adoption.
+
+According to [Crypto.com Research](https://finance.yahoo.com/news/global-crypto-users-reach-1-101646507.html), in December 2021, the total number of global crypto owners was approximately 300 million users. \
+\
+As of today, the current world population is 7.9 billion. \
+\
+**Meaning that currently, 3.7% of the world population owns cryptocurrency.**&#x20;
+
+[As of today, ](https://datareportal.com/global-digital-overview#:\~:text=4.95%20billion%20people%20around%20the,our%20journey%20towards%20universal%20accessibility.)4.95 billion people use the internet in January 2022 – equivalent to 62% of the population.&#x20;
+
+This means that assuming that the total pool of possible adopters of cryptocurrency at the moment is the whole population with access to internet, only 6% of it owns cryptocurrency.
+
+Regulation will also play a big role in the growing adoption.&#x20;
+
+Given new developments at the cryptocurrency industry, more regulation\
+Given its rapid advancement, we can still expect a great growth in this new market, where every day we have new features and new assets being added, such as DeFi and NFTs.
+

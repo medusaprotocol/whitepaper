@@ -5,12 +5,13 @@
 ## The Company
 
 * [What we envision](the-company/what-we-envision.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Get To Know The Team](the-company/get-to-know-the-team.md)
 
-## The Formal Stuff
+## Market Analysis
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Cryptocurrency Market](market-analysis/cryptocurrency-market.md)
+* [NFT Market](market-analysis/nft-market.md)
+* [Blockchain Gaming Market](market-analysis/blockchain-gaming-market.md)
 
 ## Copy of The Formal Stuff
 

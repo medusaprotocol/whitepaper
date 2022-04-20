@@ -1,5 +1,7 @@
 ---
-coverY: 0
+description: A summary of what is the Medusa Protocol
+cover: .gitbook/assets/19.png
+coverY: 28.711656441717793
 ---
 
 # Introducing Medusa
@@ -14,13 +16,19 @@ Welcome to the company wiki! Here you'll find everything you need to know about 
 
 1. Introduction
 2. What we envision
-3. Market Analysis
-4. What differentiates us
-5. Sources of Revenues
-6. MDUSA token
-7. Projects
-8. The roadmap
-9. Marketing Strategy
-10. Tokenomics
-11. Key Info
-12. Conclusion
+3. Get to know the Team&#x20;
+4. Market Analysis
+5. What differentiates us
+6. Sources of Revenues
+7. MDUSA token
+8. Projects
+9. The roadmap
+10. Marketing Strategy
+11. Tokenomics
+12. Key Info
+13. Conclusion
+14.
+    * [ ] D
+    * [ ] S
+    * [ ] DS
+    *
