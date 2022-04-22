@@ -7,11 +7,9 @@ cover: >-
 coverY: 0
 ---
 
-# Roadmap
+# Complete Roadmap
 
 We divided our roadmap into quarters. All is subject to improvements. These are estimated dates for our deliverables.
-
-On the sections after, one can find in detail the points present at our roadmap.
 
 ### Q2 2022
 
@@ -73,3 +71,24 @@ On the sections after, one can find in detail the points present at our roadmap.
 * New Exchanger
 * MDUSA Giveaway
 * New Staking Protocol
+
+### Q4 2023
+
+* Medusa DEX
+* &#x20;Celestia Live Tournament
+* New Launches
+* Company Funding Round
+* Roadmap Updates
+* MDUSA Meta-Event
+* Liquidity Protocol Growth
+
+### Q1 2024
+
+* Medusa PoS Chain
+* MDUSA Wallet
+* Medusa Credit Card
+* New Exchangers
+* &#x20;Medusa Party
+* &#x20;Token Bridges into Chain
+* Roadmap Updates
+

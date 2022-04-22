@@ -32,15 +32,15 @@ We are not afraid to disrupt.
 
 1. Introduction
 2. What we envision
-3. Get to know the Team&#x20;
-4. Market Analysis
-5. What differentiates us
-6. Sources of Revenues
-7. MDUSA token
-8. Projects
-9. The roadmap
-10. Marketing Strategy
-11. Tokenomics
+3. Market Analysis
+4. What differentiates us
+5. Sources of Revenues
+6. MDUSA token
+7. Projects
+8. The roadmap
+9. Marketing Strategy
+10. Tokenomics
+11. The Team
 12. Key Info
 13. Conclusion
 14.
