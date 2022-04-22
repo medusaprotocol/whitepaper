@@ -13,16 +13,41 @@
 * [Blockchain Gaming Market](market-analysis/blockchain-gaming-market.md)
 * [NFT Market](market-analysis/nft-market.md)
 
-## Copy of The Company
+## 3. The Medusa Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
-* [What we envision](copy-of-the-company/what-we-envision.md)
-* [Page 1](copy-of-the-company/page-1.md)
+* [Medusa Ecosystem](ecosystem/medusa-ecosystem.md)
+* [Page 1](ecosystem/page-1.md)
 
-## Copy of The Formal Stuff
+## 4. MDUSA Token <a href="#mdusa-token" id="mdusa-token"></a>
 
-* [Requesting Time Off](copy-of-the-formal-stuff/requesting-time-off.md)
-* [Get To Know The Team](copy-of-the-formal-stuff/get-to-know-the-team.md)
-* [Filing Expenses](copy-of-the-formal-stuff/filing-expenses.md)
+* [Presenting MDUSA](mdusa-token/presenting-mdusa.md)
+* [MDUSA Tokenomics](mdusa-token/mdusa-tokenomics.md)
+* [Supply Distribution](mdusa-token/supply-distribution.md)
+* [MDUSA ICO Information](mdusa-token/mdusa-ico-information.md)
+
+## 5. Utilities  <a href="#utilities" id="utilities"></a>
+
+* [Introduction](utilities/introduction.md)
+* [Share of Revenues](utilities/share-of-revenues.md)
+* [Staking Pools](utilities/staking-pools.md)
+* [Whitelist Access](utilities/whitelist-access.md)
+* [Governance Rights](utilities/governance-rights.md)
+* [Medusa Events](utilities/medusa-events.md)
+
+## 6. Projects <a href="#projects" id="projects"></a>
+
+* [Ecosystem](projects/ecosystem.md)
+* [Celestia Game](projects/celestia-game.md)
+* [Ocean Cats](projects/ocean-cats.md)
+* [Tridismensia NFTs](projects/tridismensia-nfts.md)
+* [Live Streaming Dapp](projects/live-streaming-dapp.md)
+* [Liquidity Protocol](projects/liquidity-protocol.md)
+
+## 7. Sources of Revenues  <a href="#revenues" id="revenues"></a>
+
+* [Requesting Time Off](revenues/requesting-time-off.md)
+* [Get To Know The Team](revenues/get-to-know-the-team.md)
+* [Filing Expenses](revenues/filing-expenses.md)
 
 ## 8. Roadmap <a href="#roadmap" id="roadmap"></a>
 
@@ -35,3 +60,17 @@
 * [Q3 2023](roadmap/q3-2023.md)
 * [Q4 2023](roadmap/q4-2023.md)
 * [Q1 2024](roadmap/q1-2024.md)
+
+## 9. Marketing Strategy
+
+* [Page 2](9.-marketing-strategy/page-2.md)
+
+## 10. Medusa Startup <a href="#medusa-startup" id="medusa-startup"></a>
+
+* [The Team](medusa-startup/the-team.md)
+* [Company Information](medusa-startup/company-information.md)
+
+## 11. Conclusion <a href="#conclusion" id="conclusion"></a>
+
+* [Key Info](conclusion/key-info.md)
+* [Conclusion](conclusion/conclusion.md)
