@@ -10,8 +10,9 @@
 ## Market Analysis
 
 * [Cryptocurrency Market](market-analysis/cryptocurrency-market.md)
-* [NFT Market](market-analysis/nft-market.md)
+* [DeFi Market](market-analysis/defi-market.md)
 * [Blockchain Gaming Market](market-analysis/blockchain-gaming-market.md)
+* [NFT Market](market-analysis/nft-market.md)
 
 ## Copy of The Formal Stuff
 

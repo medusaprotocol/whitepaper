@@ -1,14 +1,14 @@
 ---
-description: A summary of what is the Medusa Protocol
+description: What is the Medusa Protocol?
 cover: .gitbook/assets/19.png
 coverY: 28.711656441717793
 ---
 
 # Introducing Medusa
 
-## Welcome aboard!
+## Welcome to Medusa Whitepaper
 
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+Medusa Protocol is&#x20;
 
 
 

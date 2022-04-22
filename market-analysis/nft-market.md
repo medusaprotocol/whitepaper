@@ -6,10 +6,14 @@ coverY: 0
 
 # NFT Market
 
-To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!
+NFTs, non-fungible tokens, are a disruptive way to store data on a digital ledger through the blockchain.
 
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
+Differently from a fungible token, such as Bitcoin or the MDUSA token, NFTs are unique, where one NFT is different from another.&#x20;
 
-{% embed url="https://2w3pnm4iy73.typeform.com/to/e51Urcwb" %}
+Arts, tickets, videos and photos are examples of NFTs, but they can be much more. The imagination is the limit.
+
+Why do they have value? Value has a subjective side. If you imagine a painting, some people can place a high value on it  and some don't.
+
+With NFTs, you can prove you have something unique that others don't. NFTs are also part of the history of the cryptomarket through the blockchain.
+
+Considering only the biggest NFT marketplaces, the market cap of this section has already more than 19 billion USD and moved around 250 million USD each day. A new market with limitless possibilities.
