@@ -42,8 +42,3 @@ We are not afraid to disrupt.
 10. The Team
 11. Key Info
 12. Conclusion
-13.
-    * [ ] D
-    * [ ] S
-    * [ ] DS
-    *
