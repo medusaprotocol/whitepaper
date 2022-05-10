@@ -54,7 +54,7 @@
 
 ## 9. Marketing Strategy
 
-* [Page 2](9.-marketing-strategy/page-2.md)
+* [Marketing Plan](9.-marketing-strategy/marketing-plan.md)
 
 ## 10. Medusa Startup <a href="#medusa-startup" id="medusa-startup"></a>
 
