@@ -26,7 +26,7 @@
 
 ## 5. Utilities  <a href="#utilities" id="utilities"></a>
 
-* [Introduction](utilities/introduction.md)
+* [MDUSA Utilities](utilities/mdusa-utilities.md)
 * [Share of Revenues](utilities/share-of-revenues.md)
 * [Staking Pools](utilities/staking-pools.md)
 * [Whitelist Access](utilities/whitelist-access.md)
@@ -35,7 +35,7 @@
 
 ## 6. Projects <a href="#projects" id="projects"></a>
 
-* [Staking as a Service](projects/staking-as-a-service.md)
+* [MESP - Easy Staking Protocol](projects/mesp-easy-staking-protocol.md)
 * [Celestia Game](projects/celestia-game.md)
 * [Ocean Cats](projects/ocean-cats.md)
 * [Tridismensia NFTs](projects/tridismensia-nfts.md)
