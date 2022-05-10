@@ -1,7 +1,7 @@
 ---
 description: What is the Medusa Protocol?
-cover: .gitbook/assets/19.png
-coverY: 28.711656441717793
+cover: .gitbook/assets/medusa protocol.jpg
+coverY: 0
 ---
 
 # Introducing Medusa
