@@ -16,7 +16,6 @@
 ## 3. The Medusa Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
 * [Medusa Ecosystem](ecosystem/medusa-ecosystem.md)
-* [Page 1](ecosystem/page-1.md)
 
 ## 4. MDUSA Token <a href="#mdusa-token" id="mdusa-token"></a>
 
