@@ -1,4 +1,7 @@
 ---
+description: >-
+  Find everything about the MDUSA, the ecosystem and governance token of the
+  Medusa Protocol
 cover: >-
   https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
 coverY: 0
@@ -6,23 +9,11 @@ coverY: 0
 
 # Presenting MDUSA
 
-## Our Vision
+## An utility token
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
+The Medusa Token $MDUSA will be the governance token of the Medusa Protocol Ecosystem. All other tokens from Medusa's sub-projects will be linked to the governance token through fees.
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
 
-## Our Values
-
-{% hint style="info" %}
-**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
-{% endhint %}
-
-### Be Compassionate
-
-We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
 
 ### Be Mindful
 

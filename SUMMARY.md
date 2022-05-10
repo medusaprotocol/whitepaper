@@ -37,6 +37,7 @@
 ## 6. Projects <a href="#projects" id="projects"></a>
 
 * [Ecosystem](projects/ecosystem.md)
+* [Staking as a Service](projects/staking-as-a-service.md)
 * [Celestia Game](projects/celestia-game.md)
 * [Ocean Cats](projects/ocean-cats.md)
 * [Tridismensia NFTs](projects/tridismensia-nfts.md)

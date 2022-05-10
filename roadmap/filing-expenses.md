@@ -11,8 +11,10 @@ coverY: 0
 
 * Concept Introduction
 * &#x20;Company Announcement
+* &#x20;Easy-staking pools protocol launch
 * &#x20;MDUSA Token Launch
 * &#x20;OceanCats NFT Release
+* &#x20;OceanCats Pilot Cartoon Episode
 * &#x20;Staking Pools Release
 * &#x20;Celestia Trailer
 * &#x20;First Listings
