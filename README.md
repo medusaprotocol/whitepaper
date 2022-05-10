@@ -21,11 +21,9 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 
 \-        **Medusa App,** a decentralized live streaming app for everyone to monetize their content through crypto**;**
 
-\-        **Ocean Cats,** an original cartoon series, powered by an NFT Collection of 10 000 highschool otters**,**
+\-        **Ocean Cats,** an original cartoon series, powered by an NFT Collection of 10 000 highschool otters;
 
 \-        **Medusa Easy Staking Protocol,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
-
-&#x20;
 
 \-        **Tridismensia NFT collection**, a Medusa partnership with a collective of community creators powering a limited edition NFT collection.
 
@@ -33,6 +31,6 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 
 **All powered by MDUSA, the ecosystem governance token.**
 
-All consist on activities which the Medusa Protocol Team proposes to explore, as incorporated at our roadmap.
+All consist of activities which the Medusa Protocol Team proposes to explore, as incorporated at our roadmap.
 
-&#x20;Throughout the whitepaper, one will go through our vision for Medusa Protocol, our market anaylsis, our ecosystem, the MDUSA token, utilities, projects, sources of revenues, marketing strategy, about the company and as well as understanding how we plan to keep on delivering throughout our roadmap.
+&#x20;Throughout the whitepaper, one will go through our vision for Medusa Protocol, our market analysis, our ecosystem, the MDUSA token, utilities, projects, sources of revenues, marketing strategy, about the company and as well as understanding how we plan to keep on delivering throughout our roadmap.
