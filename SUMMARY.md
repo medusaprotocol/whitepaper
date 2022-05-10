@@ -53,14 +53,6 @@
 ## 8. Roadmap <a href="#roadmap" id="roadmap"></a>
 
 * [Complete Roadmap](roadmap/complete-roadmap.md)
-* [Q2 2022](roadmap/filing-expenses.md)
-* [Q3 2022](roadmap/q3-2022.md)
-* [Q4 2022](roadmap/q4-2022.md)
-* [Q1 2023](roadmap/q1-2023.md)
-* [Q2 2023](roadmap/q2-2023.md)
-* [Q3 2023](roadmap/q3-2023.md)
-* [Q4 2023](roadmap/q4-2023.md)
-* [Q1 2024](roadmap/q1-2024.md)
 
 ## 9. Marketing Strategy
 
@@ -68,10 +60,9 @@
 
 ## 10. Medusa Startup <a href="#medusa-startup" id="medusa-startup"></a>
 
-* [The Team](medusa-startup/the-team.md)
 * [Company Information](medusa-startup/company-information.md)
+* [The Team](medusa-startup/the-team.md)
 
 ## 11. Conclusion <a href="#conclusion" id="conclusion"></a>
 
-* [Key Info](conclusion/key-info.md)
 * [Conclusion](conclusion/conclusion.md)
