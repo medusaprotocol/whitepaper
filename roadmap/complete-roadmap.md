@@ -38,7 +38,6 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 
 * Beta Social Live Streaming Dapp
 * Celestia Launch
-* Liquidity Protocol Launch
 * Roadmap Updates
 * Creators Partnerships
 * $OCATS Token Launch
@@ -85,12 +84,12 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * Company Funding Round
 * Roadmap Updates
 * MDUSA Meta-Event
-* Liquidity Protocol Growth
 * Q4 2023 Earnings' report
 
-### Forth on
+### Further Goals
 
 * Medusa PoS Chain
+* Medusa Liquidity Protocol
 * Medusa DEX
 * MDUSA Wallet
 * Medusa Credit Card
