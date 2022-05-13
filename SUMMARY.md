@@ -36,8 +36,8 @@
 
 ## 6. Sources of Revenues  <a href="#revenues" id="revenues"></a>
 
-* [MDUSA Token](revenues/mdusa-token.md)
-* [Projects](revenues/projects.md)
+* [MDUSA Token](revenues/requesting-time-off.md)
+* [Projects](revenues/get-to-know-the-team.md)
 
 ## 7. Roadmap <a href="#roadmap" id="roadmap"></a>
 
