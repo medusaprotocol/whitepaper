@@ -4,7 +4,7 @@ Medusa Protocol is a registered company in Lisbon, Portugal with the Tax Number:
 
 With the company registered, we show to the stakeholders that we are fully committed to the process.
 
-Also, this shows credibility for potential investors and opens the possibilities to other types of investment, like funds of Venture Capital.
+Also, this shows credibility for potential investors and opens the possibilities to other types of investment.
 
 With the company registered, we show to the stakeholders that we are fully committed to the process.
 
