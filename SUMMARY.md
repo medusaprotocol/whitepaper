@@ -25,7 +25,7 @@
 * [MDUSA ICO Information](mdusa-token/mdusa-ico-information.md)
 * [Utilities](mdusa-token/utilities.md)
 
-## 6. Projects <a href="#projects" id="projects"></a>
+## 5. Projects <a href="#projects" id="projects"></a>
 
 * [MESP - Easy Staking Protocol](projects/staking-as-a-service.md)
 * [Celestia Game](projects/celestia-game.md)
@@ -34,25 +34,25 @@
 * [Live Streaming Dapp](projects/live-streaming-dapp.md)
 * [Liquidity Protocol](projects/liquidity-protocol.md)
 
-## 7. Sources of Revenues  <a href="#revenues" id="revenues"></a>
+## 6. Sources of Revenues  <a href="#revenues" id="revenues"></a>
 
 * [Requesting Time Off](revenues/requesting-time-off.md)
 * [Get To Know The Team](revenues/get-to-know-the-team.md)
 * [Filing Expenses](revenues/filing-expenses.md)
 
-## 8. Roadmap <a href="#roadmap" id="roadmap"></a>
+## 7. Roadmap <a href="#roadmap" id="roadmap"></a>
 
 * [Complete Roadmap](roadmap/complete-roadmap.md)
 
-## 9. Marketing Strategy
+## 8. Marketing Strategy
 
-* [Marketing Plan](9.-marketing-strategy/page-2.md)
+* [Marketing Plan](8.-marketing-strategy/marketing-plan.md)
 
-## 10. Medusa Startup <a href="#medusa-startup" id="medusa-startup"></a>
+## 9. Medusa Startup <a href="#medusa-startup" id="medusa-startup"></a>
 
 * [Company Information](medusa-startup/company-information.md)
 * [The Team](medusa-startup/the-team.md)
 
-## 11. Conclusion <a href="#conclusion" id="conclusion"></a>
+## 10. Conclusion <a href="#conclusion" id="conclusion"></a>
 
 * [Conclusion](conclusion/conclusion.md)
