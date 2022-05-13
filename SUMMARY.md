@@ -19,10 +19,10 @@
 
 ## 4. Medusa Token <a href="#medusa-token" id="medusa-token"></a>
 
-* [Presenting $MDUSA](medusa-token/presenting-usdmdusa.md)
-* [Tokenomics](medusa-token/tokenomics.md)
+* [Presenting $MDUSA](mdusa-token/presenting-mdusa.md)
+* [Tokenomics](mdusa-token/mdusa-tokenomics.md)
 * [ICO](medusa-token/ico.md)
-* [Utilities](medusa-token/utilities.md)
+* [Utilities](mdusa-token/utilities.md)
 
 ## 5. Projects <a href="#projects" id="projects"></a>
 
