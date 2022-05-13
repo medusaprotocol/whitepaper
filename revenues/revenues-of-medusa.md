@@ -5,7 +5,7 @@ The medusa ecosystem will feature several revenue streams based on its utilities
 In MDUSA Token, we will take part of the transactions as revenue for the company. In a way that this will be sustainable, not harming our entire environment.
 
 {% hint style="info" %}
-You can see the [tokenomics](../mdusa-token/mdusa-tokenomics.md) again if you skipped this part.
+You can see the [tokenomics](../medusa-token/tokenomics.md) again if you skipped this part.
 {% endhint %}
 
 \

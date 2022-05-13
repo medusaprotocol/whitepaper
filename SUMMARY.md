@@ -17,12 +17,12 @@
 
 * [Medusa Ecosystem](ecosystem/medusa-ecosystem.md)
 
-## 4. MDUSA Token <a href="#mdusa-token" id="mdusa-token"></a>
+## 4. Medusa Token <a href="#medusa-token" id="medusa-token"></a>
 
-* [Presenting MDUSA](mdusa-token/presenting-mdusa.md)
-* [MDUSA Tokenomics](mdusa-token/mdusa-tokenomics.md)
-* [MDUSA ICO Information](mdusa-token/mdusa-ico-information.md)
-* [Utilities](mdusa-token/utilities.md)
+* [Presenting $MDUSA](medusa-token/presenting-usdmdusa.md)
+* [Tokenomics](medusa-token/tokenomics.md)
+* [ICO](medusa-token/ico.md)
+* [Utilities](medusa-token/utilities.md)
 
 ## 5. Projects <a href="#projects" id="projects"></a>
 
