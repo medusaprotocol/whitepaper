@@ -32,7 +32,6 @@
 * [Ocean Cats](projects/ocean-cats.md)
 * [New Surrealism NFTs](projects/tridismensia-nfts.md)
 * [Live Streaming Dapp](projects/live-streaming-dapp.md)
-* [Liquidity Protocol](projects/liquidity-protocol.md)
 
 ## 6. Sources of Revenues  <a href="#revenues" id="revenues"></a>
 
