@@ -8,7 +8,7 @@ description: >-
 
 We divided our roadmap into quarters. All is subject to improvements. These are estimated dates for our deliverables.
 
-### Q2 2022
+### Q3 2022
 
 * Concept Introduction
 * &#x20;Company Announcement
@@ -21,7 +21,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * &#x20;First Listings
 * &#x20;First Press Releases
 
-### Q3 2022
+### Q4 2022
 
 * Celestia Beta Launch
 * $CELESTIA Token Launch&#x20;
@@ -34,7 +34,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 
 
 
-### Q4 2022
+### Q1 2023
 
 * Beta Social Live Streaming Dapp
 * Celestia Launch
@@ -45,7 +45,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * New Staking Pools
 * Q4 2022 Earnings' report
 
-### Q1 2023
+### Q2 2023
 
 * Streaming Dapp Launch
 * &#x20;OceanCats New episodes
@@ -56,7 +56,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * Trisdimensia Meta-Gallery
 * Q1 2023 Earnings' report
 
-### Q2 2023
+### Q3 2023
 
 * Medusa Party
 * Business Partnerships
@@ -67,7 +67,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * New partnerships
 * Q2 2023 Earnings' report
 
-### Q3 2023
+### Q4 2023
 
 * OceanCats New Season
 * New Medusa NFTs
@@ -76,9 +76,9 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * New listing Exchanges
 * MDUSA Giveaway
 * New Staking Protocol
-* Q4 2023 Earnings' report
+* Q3 2023 Earnings' report
 
-### Q4 2023
+### Q1 2024
 
 * Celestia Live Tournament
 * New Launches
