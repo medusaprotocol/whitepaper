@@ -30,7 +30,7 @@
 * [MESP - Easy Staking Protocol](projects/staking-as-a-service.md)
 * [Celestia Game](projects/celestia-game.md)
 * [Ocean Cats](projects/ocean-cats.md)
-* [New Surrealism NFTs](projects/new-surrealism-nfts.md)
+* [New Surrealism NFTs](projects/tridismensia-nfts.md)
 * [Live Streaming Dapp](projects/live-streaming-dapp.md)
 * [Liquidity Protocol](projects/liquidity-protocol.md)
 
