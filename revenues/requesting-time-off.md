@@ -1,7 +1,9 @@
-# MDUSA Token
+# Requesting Time Off
 
-As described in the tokenomics of our token, we will take part of the transactions as revenue for the company. In a way that this will be sustainable, not harming our entire environment.
+To request time off, just fill in our simple form and we'll get it approved!
 
 {% hint style="info" %}
-You can see the [tokenomics](../mdusa-token/mdusa-tokenomics.md) again if you skipped this part.
+**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
 {% endhint %}
+
+{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}

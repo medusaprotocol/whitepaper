@@ -58,7 +58,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 
 ### Q2 2023
 
-* Medusa Conference
+* Medusa Party
 * Business Partnerships
 * New Acquisitions
 * Social Media NFTs Launch
@@ -73,14 +73,13 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * New Medusa NFTs
 * Celestia Update
 * DeFi Social Media Update
-* New Exchanger
+* New listing Exchanges
 * MDUSA Giveaway
 * New Staking Protocol
 * Q4 2023 Earnings' report
 
 ### Q4 2023
 
-* Medusa DEX
 * Celestia Live Tournament
 * New Launches
 * Company Funding Round
@@ -89,14 +88,10 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * Liquidity Protocol Growth
 * Q4 2023 Earnings' report
 
-### Q1 2024
+### Forth on
 
 * Medusa PoS Chain
+* Medusa DEX
 * MDUSA Wallet
 * Medusa Credit Card
-* New Exchangers
-* &#x20;Medusa Party
-* &#x20;Token Bridges into Chain
-* Roadmap Updates
-* Q1 2024 Earnings' report
 
