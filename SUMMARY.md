@@ -21,7 +21,6 @@
 
 * [Presenting MDUSA](mdusa-token/presenting-mdusa.md)
 * [MDUSA Tokenomics](mdusa-token/mdusa-tokenomics.md)
-* [Supply Distribution](mdusa-token/supply-distribution.md)
 * [MDUSA ICO Information](mdusa-token/mdusa-ico-information.md)
 * [Utilities](mdusa-token/utilities.md)
 
