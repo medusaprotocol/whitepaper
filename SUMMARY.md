@@ -23,15 +23,7 @@
 * [MDUSA Tokenomics](mdusa-token/mdusa-tokenomics.md)
 * [Supply Distribution](mdusa-token/supply-distribution.md)
 * [MDUSA ICO Information](mdusa-token/mdusa-ico-information.md)
-
-## 5. Utilities  <a href="#utilities" id="utilities"></a>
-
-* [MDUSA Utilities](utilities/introduction.md)
-* [Share of Revenues](utilities/share-of-revenues.md)
-* [Staking Pools](utilities/staking-pools.md)
-* [Whitelist Access](utilities/whitelist-access.md)
-* [Governance Rights](utilities/governance-rights.md)
-* [Medusa Events](utilities/medusa-events.md)
+* [Utilities](mdusa-token/utilities.md)
 
 ## 6. Projects <a href="#projects" id="projects"></a>
 
