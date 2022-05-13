@@ -20,9 +20,8 @@ Previous experience on the banking industry, working as an advisor at Alantra in
 
 Duarte holds a Master of Science’s degree in Management with a specialization in Strategy and Entrepreneurship at Católica Lisbon School of Business and Economics and a Bachelor’s degree in Economics at Nova School of Business and Economics.
 
-Feel free to contact him through duarte.baltazar@medusaprotocol.com.
-
-![](<../.gitbook/assets/Untitled design (12).png>)
+Feel free to contact him through duarte.baltazar@medusaprotocol.com.\
+![](<../.gitbook/assets/Untitled-design-12-e1649455316767 (1).png>)
 
 ## Daniel Ascen
 
@@ -36,7 +35,7 @@ His passion for the crypto DeFi market led him to be full time on Medusa Protoco
 
 Feel free to contact him through daniel.ascen@medusaprotocol.com.
 
-![](<../.gitbook/assets/daniel-ascen-e1649456516179 (1).png>)
+![](../.gitbook/assets/daniel-ascen-e1649456516179.png)
 
 \
 Marco Failache
