@@ -15,7 +15,7 @@ At Medusa Protocol, all of our projects converge in terms of publicity. Any big 
 4. Ads on Poocoin
 5. Partnership with Influencers (Twitter, TikTok, Youtube and Instagram)
 6. Partnership with other Crypto Projects
-7. Referal System with Partners
+7. Referral System with Partners
 8. Giveaway of NFTs in Social Medias
 9. Tiktok Challenges
 10. Press Release in Crypto Media and Mainstream Media
