@@ -19,3 +19,5 @@ At Medusa Protocol, all of our projects converge in terms of publicity. Any big 
 8. Giveaway of NFTs in Social Medias
 9. Tiktok Challenges
 10. Press Release in Crypto Media and Mainstream Media
+
+This is only the beginning with more to come as we grow.
