@@ -6,12 +6,53 @@ description: Find out more about the team behind the Medusa Protocol
 
 We have been working together for the last year, a team of very ambitious and creative people excited with making Medusa Protocol, a leader at the Decentralized Finance Space.
 
-The team is composed by:
+Medusa Protocol is an international team, with full-time and partial time members committed in keep on taking the project and MDUSA token to bigger levels.
 
-* Duarte Baltazar - Management and Economics degrees. Banking experience.\
-  ![](../.gitbook/assets/Untitled-design-12-e1649455316767.png)
-* Daniel Ascen - Economist and Crypto analyst. Worked as a Debt Researcher in Brazil.\
-  ![](../.gitbook/assets/daniel-ascen-e1649456516179.png)
+
+
+## Duarte Baltazar
+
+Head of Medusa Protocol, based in Lisbon, Portugal. 24 years old.&#x20;
+
+Co-founder of TaskPrints an online and offline graphic company; and Cuffies.
+
+Previous experience on the banking industry, working as an advisor at Alantra in non-perfoming-loan's deals between investment funds and banks.
+
+Duarte holds a Master of Science’s degree in Management with a specialization in Strategy and Entrepreneurship at Católica Lisbon School of Business and Economics and a Bachelor’s degree in Economics at Nova School of Business and Economics.
+
+Feel free to contact him through duarte.baltazar@medusaprotocol.com.
+
+![](<../.gitbook/assets/Untitled design (12).png>)
+
+## Daniel Ascen
+
+Partner and CFO at Medusa Protocol, based in Ceará, Brazil. 27 years old.&#x20;
+
+Co-founder of Cuffies and with vast experience with cryptocurrency analysis. Manager of an online economic _think-thank._&#x20;
+
+Daniel holds a Bachelor’s degree in Economics at Universidade Federal do Ceará, with a special focus on macro economical research in the monetary field.&#x20;
+
+His passion for the crypto DeFi market led him to be full time on Medusa Protocol. Direct responsible for the financial organization of the company, as well for the delivery of the Earning Reports.
+
+Feel free to contact him through daniel.ascen@medusaprotocol.com.
+
+![](<../.gitbook/assets/daniel-ascen-e1649456516179 (1).png>)
+
+\
+Marco Failache
+--------------
+
+Partner and CFO at Medusa Protocol, based in Ceará, Brazil. 27 years old.&#x20;
+
+Co-founder of Cuffies and with vast experience with cryptocurrency analysis. Manager of an online economic _think-thank._&#x20;
+
+Daniel holds a Bachelor’s degree in Economics at Universidade Federal do Ceará, with a special focus on macro economical research in the monetary field.&#x20;
+
+His passion for the DeFi market led him to be full time on Medusa Protocol. Direct responsible for the financial organization of the company, as well for the delivery of the Earning Reports.
+
+Feel free to contact him through here or through daniel.ascen@medusaprotocol.com.\
+
+
 * Marco Antonio - Telecommunication Engineer and Blockchain Developer with experience in the field.\
   ![](../.gitbook/assets/marco.jpg)
 * Lucas Philipovsky - Master Chemical Engineer, Designer and Game Developer.\
