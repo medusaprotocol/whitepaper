@@ -36,9 +36,8 @@
 
 ## 6. Sources of Revenues  <a href="#revenues" id="revenues"></a>
 
-* [Requesting Time Off](revenues/requesting-time-off.md)
-* [Get To Know The Team](revenues/get-to-know-the-team.md)
-* [Filing Expenses](revenues/filing-expenses.md)
+* [MDUSA Token](revenues/mdusa-token.md)
+* [Projects](revenues/projects.md)
 
 ## 7. Roadmap <a href="#roadmap" id="roadmap"></a>
 
@@ -46,7 +45,7 @@
 
 ## 8. Marketing Strategy
 
-* [Marketing Plan](8.-marketing-strategy/marketing-plan.md)
+* [Marketing Plan](9.-marketing-strategy/page-2.md)
 
 ## 9. Medusa Startup <a href="#medusa-startup" id="medusa-startup"></a>
 
