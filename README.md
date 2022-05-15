@@ -6,7 +6,7 @@ coverY: 0
 
 # Introducing Medusa
 
-Medusa Protocol is a Crypto Hub Venture Builder aiming to bring and deliver new out-of-the-box blockchain solutions.
+Medusa Protocol is a Crypto hub venture builder aiming to bring and deliver new out-of-the-box blockchain solutions.
 
 We are not afraid to disrupt. We love to create new solutions, and Medusa Protocol will be the birthplace and accelerator of all projects we propose to explore.
 
