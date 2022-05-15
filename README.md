@@ -25,7 +25,7 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 
 \-        **Medusa Easy Staking Protocol,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
 
-\-        **Tridismensia NFT collection**, a Medusa partnership with a collective of community creators powering a limited edition NFT collection.
+\-        **NeoSurreal NFT collection**, a Medusa partnership with a collective of community creators powering a limited edition NFT collection.
 
 &#x20;
 

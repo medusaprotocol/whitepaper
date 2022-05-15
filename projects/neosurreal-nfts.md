@@ -1,6 +1,6 @@
-# New Surrealism NFTs
+# NeoSurreal NFTs
 
-**New Surrealism NFT collection** is a Medusa partnership with artists inside and outside our community. This collection brings a new concept of NFTs, introducing true arts.
+**The NeoSurreal NFT collection** is a Medusa partnership with artists inside and outside our community. This collection brings a new concept of NFTs, introducing true arts.
 
 The idea is to recreate the surrealism style of art, which, in its time, creates amazing pieces, like the ones by the master Salvador Dalí. But also with uniqueness, we share a link too with Cubism (e.g. Pablo Picasso) and Abstractionism (e.g. Wassily Kandinsky).
 
