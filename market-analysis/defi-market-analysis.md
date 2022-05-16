@@ -1,4 +1,10 @@
-# DeFi Market
+---
+description: Blockchain technology gives vast potential for worldwide solutions
+cover: ../.gitbook/assets/2.png
+coverY: 0
+---
+
+# DeFi Market Analysis
 
 The DeFi (Decentralized Finance) section in specific is something really new. It aims to provide financial services outside the centralized financial system (CeFi).
 

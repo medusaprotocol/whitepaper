@@ -2,17 +2,19 @@
 description: >-
   Our view on the cryptocurrency market and why we are bullish on the potential
   of the industry
+cover: ../.gitbook/assets/1.png
+coverY: 0
 ---
 
 # Cryptocurrency Market
 
 Our analysis is focused on the long-term potential of the market.
 
-**The last few years have been fantastic for the cryptocurrency market.**
+We like to look at the market with a 1-3 years scope, aligned with our roadmap goals.
+
+The last few years have been fantastic for the cryptocurrency market.
 
 Bitcoin hit multiple times to new all-time high prices, the institutional adoption has seen a significant increase and there was a big increase in total global adoption.
-
-We like to look at the market with a 1-3 years scope, aligned with our roadmap goals.
 
 People's interest in crypto is skyrocketing. It is not the same taboo topic from a few years ago. From vast increase of media coverage, to increase in credibility for long-term investors, to the popular culture style, the cryptocurrency market is here to stay.
 
@@ -40,7 +42,7 @@ According to [Crypto.com Research](https://finance.yahoo.com/news/global-crypto-
 \
 Considering that today[ the **current world population is 7.9 billion**](https://www.worldometers.info/world-population/)**, this mean only 3.7% of the world population currently owns cryptocurrency.**&#x20;
 
-[4.95 billion people use the internet in January 2022](https://datareportal.com/global-digital-overview#:\~:text=4.95%20billion%20people%20around%20the,our%20journey%20towards%20universal%20accessibility.) – equivalent to 62% of the population.&#x20;
+[4.95 billion people use the internet in January 2022](https://datareportal.com/global-digital-overview) – equivalent to 62% of the population.&#x20;
 
 This means that assuming that the total pool of possible adopters of cryptocurrency at the moment is the whole population with access to internet, only 6% of them own cryptocurrency.
 

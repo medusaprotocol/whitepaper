@@ -1,4 +1,9 @@
-# NFT Market
+---
+cover: ../.gitbook/assets/5.png
+coverY: 0
+---
+
+# NFT Market Analysis
 
 NFTs, non-fungible tokens, are a disruptive way to store data on a digital ledger through the blockchain.
 

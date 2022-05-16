@@ -1,4 +1,11 @@
+---
+cover: ../.gitbook/assets/4.png
+coverY: 0
+---
+
 # Blockchain Gaming Market
+
+
 
 Games are something that humankind uses to develop personality, logic and other traits essentials to survive. This happens since the dawn of humanity.
 

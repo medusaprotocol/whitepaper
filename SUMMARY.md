@@ -9,9 +9,9 @@
 ## 2. Market Analysis <a href="#market-analysis" id="market-analysis"></a>
 
 * [Cryptocurrency Market](market-analysis/cryptocurrency-market.md)
-* [DeFi Market](market-analysis/defi-market.md)
+* [DeFi Market Analysis](market-analysis/defi-market-analysis.md)
 * [Blockchain Gaming Market](market-analysis/blockchain-gaming-market.md)
-* [NFT Market](market-analysis/nft-market.md)
+* [NFT Market Analysis](market-analysis/nft-market-analysis.md)
 
 ## 3. The Medusa Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
@@ -28,7 +28,7 @@
 * [MESP - Easy Staking Protocol](projects/staking-as-a-service.md)
 * [Celestia Game](projects/celestia-game.md)
 * [Ocean Cats](projects/ocean-cats.md)
-* [NeoSurrealism NFTs](projects/neosurrealism-nfts.md)
+* [NeoSurrealism NFTs](projects/neosurreal-nfts.md)
 * [Live Streaming Dapp](projects/live-streaming-dapp.md)
 
 ## 6. Sources of Revenues  <a href="#revenues" id="revenues"></a>
