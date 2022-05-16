@@ -6,7 +6,7 @@ The MDUSA token has a transfer fee of 5%.&#x20;
 
 3% is allocated for business purposes (marketing, team, structure and other expenditures like that to use as we need);
 
-2% is automatically added to the liquidity pool;
+2% is automatically added to the liquidity pool.
 
 \
 \
