@@ -6,7 +6,9 @@ coverY: 0
 
 # Introducing Medusa
 
-Medusa Protocol is a Crypto hub venture builder aiming to bring and deliver new out-of-the-box blockchain solutions.
+
+
+Medusa Protocol is a Crypto Venture Builder bringing new out-of-the-box blockchain solutions.
 
 We are not afraid to disrupt. We love to create new solutions, and Medusa Protocol will be the birthplace and accelerator of all projects we propose to explore.
 
@@ -33,4 +35,4 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 
 All consist of activities which the Medusa Protocol Team proposes to explore, as incorporated at our roadmap.
 
-&#x20;Throughout the whitepaper, one will go through our vision for Medusa Protocol, our market analysis, our ecosystem, the MDUSA token, utilities, projects, sources of revenues, marketing strategy, about the company and as well as understanding how we plan to keep on delivering throughout our roadmap.
+Throughout the whitepaper, one will go through our vision for Medusa Protocol, our market analysis, our ecosystem, the MDUSA token, utilities, projects, sources of revenues, marketing strategy, about the company and as well as understanding how we plan to keep on delivering throughout our roadmap.
