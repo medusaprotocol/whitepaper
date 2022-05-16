@@ -22,7 +22,6 @@
 * [Presenting $MDUSA](mdusa-token/presenting-mdusa.md)
 * [Tokenomics](mdusa-token/mdusa-tokenomics.md)
 * [ICO](medusa-token/ico.md)
-* [Utilities](mdusa-token/utilities.md)
 
 ## 5. Projects <a href="#projects" id="projects"></a>
 
