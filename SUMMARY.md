@@ -28,7 +28,7 @@
 * [MESP - Easy Staking Protocol](projects/staking-as-a-service.md)
 * [Celestia Game](projects/celestia-game.md)
 * [Ocean Cats](projects/ocean-cats.md)
-* [NeoSurreal NFTs](projects/neosurreal-nfts.md)
+* [NeoSurrealism NFTs](projects/neosurrealism-nfts.md)
 * [Live Streaming Dapp](projects/live-streaming-dapp.md)
 
 ## 6. Sources of Revenues  <a href="#revenues" id="revenues"></a>
