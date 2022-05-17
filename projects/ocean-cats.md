@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/find our website (9).png
+coverY: 770.3558282208589
+---
+
 # Ocean Cats
 
 OceanCats is a series of NFTs inspired by otters. This cute animal is a new phenomenon on social medias with a lot of attention recently. The idea is to bring the fun of these animals with the final objective of preserving their lives.\

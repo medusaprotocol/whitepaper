@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/find our website (11).png
+coverY: -643.1411042944785
+---
+
 # Celestia Game
 
 Celestia is an NFT card game powered by the blockchain and developed in Unity. \

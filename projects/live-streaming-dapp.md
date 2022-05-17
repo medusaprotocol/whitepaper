@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/find our website (8).png
+coverY: 0
+---
+
 # Live Streaming Dapp
 
 We are creating a unique-style platform to connect users and creators. A platform to follow, connect and tip everyone. Where the creator gain the majority of the tip of all tips and you own your content.

@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # MESP - Easy Staking Protocol
 
 At Medusa Protocol, from start we focus on pursuing different opportunities powered by blockchain technology.

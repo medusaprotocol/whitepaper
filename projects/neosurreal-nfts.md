@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # NeoSurrealism NFTs
 
 **The NeoSurrealism NFT collection** is a Medusa partnership with artists inside and outside our community. This collection brings a new concept of NFTs, introducing true arts.

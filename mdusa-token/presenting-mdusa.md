@@ -2,6 +2,7 @@
 description: >-
   Find everything about the MDUSA, the ecosystem and governance token of the
   Medusa Protocol
+coverY: 0
 ---
 
 # Presenting $MDUSA
