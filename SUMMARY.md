@@ -19,7 +19,7 @@
 
 ## 4. Medusa Token <a href="#medusa-token" id="medusa-token"></a>
 
-* [Presenting MDUSA](medusa-token/presenting-mdusa.md)
+* [Presenting MDUSA](mdusa-token/presenting-mdusa.md)
 * [Tokenomics](mdusa-token/mdusa-tokenomics.md)
 * [ICO](medusa-token/ico.md)
 

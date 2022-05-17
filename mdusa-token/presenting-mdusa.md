@@ -5,7 +5,7 @@ description: >-
 coverY: 0
 ---
 
-# Presenting $MDUSA
+# Presenting MDUSA
 
 MDUSA is a Binance Smart Chain Token, the governance and ecosystem token of the Medusa Protocol.&#x20;
 
@@ -20,7 +20,7 @@ We had some problems to solve to create our Medusa Ecosystem smart contracts. We
 * Blockchain way to reward investors with the projects within Medusa;
 * System to directly receive from other tokens;
 * Token with auto-liquidity increases;
-* Low tax token, while being able to generate revenues;
+* Low tax token, while being able to generate revenues.
 
 
 
