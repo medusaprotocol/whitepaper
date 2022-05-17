@@ -37,9 +37,9 @@ This is a Medusa powered project, with part of the revenues flowing directly int
 14. Celestia Video Teaser;
 15. OceanCats Trailer;
 16. Medusa Staking Pools' Referral System;
-17. OceanCats NFT Mint
-18. Partnerships with other companies
-19. Exchangers
+17. OceanCats NFT Mint;
+18. Partnerships with other companies;
+19. Exchanges.
 
 
 
