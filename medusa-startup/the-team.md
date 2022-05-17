@@ -29,9 +29,9 @@ Partner and CFO at Medusa Protocol, based in Ceará, Brazil. 27 years old.&#x20;
 
 Co-founder of Cuffies and with vast experience with cryptocurrency analysis. Manager of an online economic _think-thank._&#x20;
 
-Daniel holds a Bachelor’s degree in Economics at Universidade Federal do Ceará, with a special focus on macro economical research in the monetary field.&#x20;
+Daniel holds a Bachelor’s degree in Economics at Universidade Federal do Ceará, with a special focus on Bitcoin as an investment asset in an investment portfolio.&#x20;
 
-His passion for the crypto DeFi market led him to be full time on Medusa Protocol. Direct responsible for the financial organization of the company, as well for the delivery of the Earning Reports.
+His passion for the crypto DeFi market led him to be full time on Medusa Protocol. Direct responsible for the financial organization of the company.
 
 Feel free to contact him through daniel.ascen@medusaprotocol.com.
 
@@ -41,20 +41,18 @@ Feel free to contact him through daniel.ascen@medusaprotocol.com.
 Marco Failache
 --------------
 
-Partner and CFO at Medusa Protocol, based in Ceará, Brazil. 27 years old.&#x20;
+Aaaa\
+\
+![](../.gitbook/assets/marco.jpg)
 
-Co-founder of Cuffies and with vast experience with cryptocurrency analysis. Manager of an online economic _think-thank._&#x20;
+## Lucas Philipovsky
 
-Daniel holds a Bachelor’s degree in Economics at Universidade Federal do Ceará, with a special focus on macro economical research in the monetary field.&#x20;
+Aaaa\
+![](../.gitbook/assets/photo\_2021-06-01\_13-37-11.jpg)
 
-His passion for the DeFi market led him to be full time on Medusa Protocol. Direct responsible for the financial organization of the company, as well for the delivery of the Earning Reports.
+## David Caldeira
 
-Feel free to contact him through here or through daniel.ascen@medusaprotocol.com.\
+Aaa&#x20;
 
-
-* Marco Antonio - Telecommunication Engineer and Blockchain Developer with experience in the field.\
-  ![](../.gitbook/assets/marco.jpg)
-* Lucas Philipovsky - Master Chemical Engineer, Designer and Game Developer.\
-  ![](../.gitbook/assets/photo\_2021-06-01\_13-37-11.jpg)
-* David Caldeira - Electrotechnical Engineer with experience in e-commerce sales.\
-  ![](../.gitbook/assets/godGLNmN\_400x400.jpg)
+\
+![](../.gitbook/assets/godGLNmN\_400x400.jpg)
