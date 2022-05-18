@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/mesp.png
 coverY: 0
 ---
 
