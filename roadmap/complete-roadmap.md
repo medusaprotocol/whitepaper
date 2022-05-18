@@ -2,6 +2,8 @@
 description: >-
   A clear idea of where and how we are going to be a leading player at the DeFi
   industry
+cover: ../.gitbook/assets/9.png
+coverY: 0
 ---
 
 # Complete Roadmap
