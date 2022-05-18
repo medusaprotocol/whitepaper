@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/13.png
+coverY: 0
+---
+
 # Conclusion
 
 Medusa Protocol is founded with a passion for crypto markets and startup environments alongside a desire to make a difference in these scenarios.
