@@ -16,11 +16,9 @@ The last few years have been fantastic for the cryptocurrency market.
 
 Bitcoin hit multiple times to new all-time high prices, the institutional adoption has seen a significant increase and there was a big increase in total global adoption.
 
-People's interest in crypto is skyrocketing. It is not the same taboo topic from a few years ago. From vast increase of media coverage, to increase in credibility for long-term investors, to the popular culture style, the cryptocurrency market is here to stay.
+People's interest in crypto is skyrocketing. It is not the same taboo topic from a few years ago. From a vast increase in media coverage, to an increase in credibility for long-term investors, to the popular culture style, the cryptocurrency market is here to stay.
 
 According with [data from Chainalysis](https://blog.chainalysis.com/reports/2021-global-crypto-adoption-index/), data suggests that global adoption has grown by over 2300% since Q3 2019 and over 881% in the last year of 2021. \
-\
-**Reasons for increased adoption differ around the world:**\
 &#x20;\
 In emerging markets, there has been a growing adoption motivated by the utility of cryptocurrencies to preserve their savings in the face of currency devaluation, send and receive remittances, and carry out business transactions.
 
@@ -30,7 +28,7 @@ In a year when cryptocurrency prices rose dramatically, each region’s respecti
 
 The cryptocurrency market has reached new levels that were previously unimaginable years ago. Bitcoin, the first and biggest crypto asset in this market, appeared only 13 years ago, which compared to other financial assets used in the global economy, makes it to be at an early-stage.
 
-Currently (May 2022), this market has a market capitalization of approximately UDS 2 trillion, which equates to the most valuable company in the world - Apple.&#x20;
+Currently (March 2022), this market has a market capitalization of approximately UDS 2 trillion, which equates to the most valuable company in the world - Apple.&#x20;
 
 Directly comparing it with Apple, allow us to understand the growth potential of the industry.&#x20;
 
@@ -48,8 +46,8 @@ This means that assuming that the total pool of possible adopters of cryptocurre
 
 Regulation will also play a big role in the growing adoption of cryptocurrencies. Worldwide regulation is likely to bring a boost in credibility for the whole market, which will allow the industry to grow even more in popularity, with the more traditional investors and institutions. Not to forget that regulating implies taxing, a direct source of revenues for governments, which can lead to a bigger focus from governments on its mainstream adoption.
 
-The nature of this market still has a big volatility, which we see as natural, given the infancy of the industry and the economic process of discovering value from the investors.
+The nature of this market still has big volatility, which we see as natural, given the infancy of the industry and the economic process of discovering value from the investors.
 
-With the potential and current use cases of the blockchain technology, from reserve of value, payment method, crowdfunding source, store of data; the growing mainstream popularity, more media coverage, more institutional investments and more governmental regulation, it is natural to see this crypto adoption rate to increase in the next years.&#x20;
+With the potential and current use cases of the blockchain technology, from reserve of value, payment method, crowdfunding source, and store of data; the growing mainstream popularity, more media coverage, more institutional investments and more governmental regulation, it is natural to see this crypto adoption rate to increase in the next years.&#x20;
 
 Given all these factors, at [Medusa Protocol](https://medusaprotocol.com), we are confident in the long-term future and impact of the cryptocurrency market and this is why we position within this industry, as a crypto-powered venture builder betting on the creation and development of innovative solutions within the blockchain.
