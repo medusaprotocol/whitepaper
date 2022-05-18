@@ -2,7 +2,7 @@
 description: >-
   A clear idea of where and how we are going to be a leading player at the DeFi
   industry
-cover: ../.gitbook/assets/9.png
+cover: ../.gitbook/assets/12.png
 coverY: 0
 ---
 
