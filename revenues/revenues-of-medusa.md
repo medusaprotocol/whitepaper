@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/11.png
+coverY: 0
+---
+
 # Revenues of Medusa
 
 The medusa ecosystem will feature several revenue streams based on its utilities.&#x20;
