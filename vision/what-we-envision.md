@@ -1,6 +1,6 @@
 ---
 description: What is the Medusa Protocol?
-cover: ../.gitbook/assets/find our website (2).png
+cover: ../.gitbook/assets/vision.png
 coverY: 0
 ---
 
