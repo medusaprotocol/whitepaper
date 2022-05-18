@@ -15,3 +15,5 @@ The centralization of these financial services is harmful to the economy, as it 
 As Schumpeter (the famous economist of the theory of destructive creation) pointed out, credit is essential for any growth and development in the economic arena.  DeFi extends the scope of global credit reach.
 
 In short, DeFi is more than a market eccentricity, it's a need that's coming true. Complex and easily obtainable financial services are essential to the economy.
+
+Providing services like Staking Protocols, we are inside the DeFi and this make us exposed for the big growth that this market will reach.
