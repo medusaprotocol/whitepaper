@@ -2,7 +2,7 @@
 description: >-
   Find everything about the MDUSA, the ecosystem and governance token of the
   Medusa Protocol
-cover: ../.gitbook/assets/mdusa token (1).png
+cover: ../.gitbook/assets/18.png
 coverY: 0
 ---
 

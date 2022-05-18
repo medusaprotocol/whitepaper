@@ -2,7 +2,7 @@
 description: >-
   Our view on the cryptocurrency market and why we are bullish on the potential
   of the industry
-cover: ../.gitbook/assets/1.png
+cover: ../.gitbook/assets/1 (2).png
 coverY: 0
 ---
 
