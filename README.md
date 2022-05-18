@@ -27,7 +27,7 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 
 \-        **Medusa Easy Staking Protocol,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
 
-\-        **NeoSurreal NFT collection**, a Medusa partnership with a collective of community creators powering a limited edition NFT collection.
+\-        **NeoSurreal NFT collection**, a Medusa partnership with a collective of artists powering a limited edition NFT collection.
 
 &#x20;
 
@@ -35,4 +35,4 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 
 All consist of activities which the Medusa Protocol Team proposes to explore, as incorporated at our roadmap.
 
-Throughout the whitepaper, one will go through our vision for Medusa Protocol, our market analysis, our ecosystem, the MDUSA token, utilities, projects, sources of revenues, marketing strategy, about the company and as well as understanding how we plan to keep on delivering throughout our roadmap.
+Throughout the whitepaper, one will go through our vision for Medusa Protocol, our market analysis, our ecosystem, the MDUSA token, utilities, projects, sources of revenues, marketing strategy, about the company and as well as understanding of how we plan to keep on delivering throughout our roadmap.
