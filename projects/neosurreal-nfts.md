@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/neosurrealism nft collection.png
 coverY: 0
 ---
 
