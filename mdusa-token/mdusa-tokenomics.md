@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/6 (1).png
+coverY: 0
+---
+
 # Tokenomics
 
 We opt from start with going with a low fee. This will lead to bigger speculation, but also to more volume and holder growth.&#x20;
