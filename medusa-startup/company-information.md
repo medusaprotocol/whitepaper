@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/company.png
+coverY: 0
+---
+
 # Company Information
 
 Medusa Protocol is a registered company in Lisbon, Portugal with the Tax Number: 516795937.
