@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Marketing Plan
 
 Marketing around the Medusa Protocol will be different from the normal marketing around crypto projects.&#x20;
