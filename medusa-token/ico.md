@@ -11,6 +11,6 @@ In our case, our ICO is a key event to gather funds and increase our community t
 
 ## The Process
 
-We will do a first pre-sale only with selected people through a whitelist in PinkSale and launch at the principals’ DEX in the current scenario and after in the big Exchanges.
+We will do a first pre-sale only with selected people through a whitelist in PinkSale, then a launch at the principals’ DEX in the current scenario and after in the big Exchanges.
 
-To know more details about our pre-sale process contact us at our [telegram community](https://t.me/medusaprotocol).
+To know more details about our pre-sale process contact us at our [telegram community](https://t.me/medusaprotocol) or through **team@medusaprotocol.com.**
