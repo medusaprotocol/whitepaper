@@ -6,7 +6,7 @@ coverY: 325.1042944785276
 
 # Introducing Medusa
 
-Medusa Protocol is a Crypto Venture Builder bringing new out-of-the-box blockchain solutions.
+**Medusa Protocol is a Crypto Venture Builder** bringing new out-of-the-box blockchain solutions.
 
 In greek mythology, Medusa had a relevant role in history. When she was beheaded by Perseus, she gave life to Pegasus (the winged horse) and Chrysaor. Perseus was one of the biggest heroes of ancient Greece using the Medusa's head and Bellerophon using the horse Pegasus had another relevant role in the history.
 
