@@ -11,7 +11,7 @@ Medusa Ecosystem follows a strategy of englobing all beneficial creative ideas g
 
 The purpose is to develop several utilities under this ecosystem, with direct and indirect utilities and revenues, connected through the governance and ecosystem token, MDUSA.
 
-The Medusa Ecosystem is a hub of crypto solutions with a good variety to bring power to Medusa Protocol as a whole and, in consequence, to the projects that will enter our ecosystem.
+The Medusa Ecosystem powers crypto solutions with a good variety to bring power to the Medusa Protocol as a whole and, in consequence, to the projects that will enter our ecosystem.
 
 On the Project Section, one may find more information regarding the projects under development.&#x20;
 
