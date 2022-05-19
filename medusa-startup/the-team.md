@@ -59,11 +59,10 @@ Feel free to contact him through **marco.failache@medusaprotocol.com**.\
 
 Chief of Game and Partner at Medusa, based in Ceará, Brazil. Lucas is a Brazilian Chemical Engineer, holding also a post-graduation in design.&#x20;
 
-His passion for games and design, led him to be a fundamental part of Medusa Protocol. The main visionary around Celestia Game, Lucas is overseeing major developments on the game.
+His passion for games and design led him to be a fundamental part of Medusa Protocol. The main visionary around Celestia Game, Lucas is overseeing major developments in the game.
 
-Feel free to contact him at lucas.philipovsky@medusaprotocol.com.\
+Feel free to contact him at **lucas.philipovsky@medusaprotocol.com**.\
 \
-&#x20;\
 ![](../.gitbook/assets/photo\_2021-06-01\_13-37-11.jpg)
 
 ## David Caldeira
