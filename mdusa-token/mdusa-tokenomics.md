@@ -20,3 +20,4 @@ Our focus with these tokenomics is to explore volume and keep on consolidating a
 
 This will also happen through the buybacks and burns of revenues from the projects within our ecosystem. &#x20;
 
+![](../.gitbook/assets/tokenomics.png)
