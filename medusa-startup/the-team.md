@@ -22,7 +22,9 @@ Previous experience on the banking industry, working as an advisor at Alantra in
 
 Duarte holds a Master of Science’s degree in Management with a specialization in Strategy and Entrepreneurship at Católica Lisbon School of Business and Economics and a Bachelor’s degree in Economics at Nova School of Business and Economics.
 
-Feel free to contact him through **duarte.baltazar@medusaprotocol.com**.\
+Feel free to contact him through **duarte.baltazar@medusaprotocol.com**.
+
+\
 ![](<../.gitbook/assets/Untitled-design-12-e1649455316767 (1).png>)
 
 ## Daniel Ascen
@@ -37,22 +39,38 @@ His passion for the crypto DeFi market led him to be full time on Medusa Protoco
 
 Feel free to contact him through **daniel.ascen@medusaprotocol.com**.
 
+
+
 ![](../.gitbook/assets/daniel-ascen-e1649456516179.png)
 
 \
 Marco Failache
 --------------
 
-Aaaa\
+Partner and CTO at Medusa Protocol, based in Lisboa, Portugal. 25 years old. Marco holds a Master's Degree in Telecommunications Engineer, with his master thesis in 5G technology; and a Bachelor's Degree in Electrotechnical Engineering at IST University of Lisbon.
+
+At Medusa, Marco works with blockchain development, overseeing all activities on the different projects within Medusa Ecosystem.
+
+Feel free to contact him through marco.failache@medusaprotocol.com.
+
+\
 \
 ![](../.gitbook/assets/marco.jpg)
 
 ## Lucas Philipovsky
 
-Aaaa\
+Chief of Game and Partner at Medusa, based in Ceará, Brazil. Lucas is a Brazilian Chemical Engineer, holding also a post-graduation in design.&#x20;
+
+His passion for games and design, led him to be a fundamental part of Medusa Protocol. The main visionary around Celestia Game, Lucas is overseeing major developments on the game.
+
+Feel free to contact him at lucas.philipovsky@medusaprotocol.com.\
+\
+&#x20;\
 ![](../.gitbook/assets/photo\_2021-06-01\_13-37-11.jpg)
 
 ## David Caldeira
+
+
 
 Partner and Strategist at Medusa Protocol, based in Lisboa, Portugal. 24 years old. He has been working on the team from start. Experience in ecommerce development and management; also a crypto enthusiast from the beginning.
 
