@@ -22,7 +22,7 @@ Previous experience on the banking industry, working as an advisor at Alantra in
 
 Duarte holds a Master of Science’s degree in Management with a specialization in Strategy and Entrepreneurship at Católica Lisbon School of Business and Economics and a Bachelor’s degree in Economics at Nova School of Business and Economics.
 
-Feel free to contact him through duarte.baltazar@medusaprotocol.com.\
+Feel free to contact him through **duarte.baltazar@medusaprotocol.com**.\
 ![](<../.gitbook/assets/Untitled-design-12-e1649455316767 (1).png>)
 
 ## Daniel Ascen
@@ -35,7 +35,7 @@ Daniel holds a Bachelor’s degree in Economics at Universidade Federal do Cear�
 
 His passion for the crypto DeFi market led him to be full time on Medusa Protocol. Direct responsible for the financial organization of the company.
 
-Feel free to contact him through daniel.ascen@medusaprotocol.com.
+Feel free to contact him through **daniel.ascen@medusaprotocol.com**.
 
 ![](../.gitbook/assets/daniel-ascen-e1649456516179.png)
 
@@ -54,7 +54,13 @@ Aaaa\
 
 ## David Caldeira
 
-Aaa&#x20;
+Partner and Strategist at Medusa Protocol, based in Lisboa, Portugal. 24 years old. He has been working on the team from start. Experience in ecommerce development and management; also a crypto enthusiast from the beginning.
+
+David holds a Bachelor’s degree in Electrotechnical Engineering from IST University of Lisbon.
+
+At Medusa, he works with direct responsibility on the strategy, operations and roadmap developments.
+
+Feel free to contact him through **david.caldeira@medusaprotocol.com**.
 
 \
 ![](../.gitbook/assets/godGLNmN\_400x400.jpg)
