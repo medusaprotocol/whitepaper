@@ -38,8 +38,8 @@ We wanted to ensure that investors of MDUSA tokens are awarded by betting on our
 
 ## Medusa Protocol
 
-So today we define us as a web3 venture builder, the Medusa Protocol. Betting on disruptive opportunities in the Crypto assets Market. Always growing our protocol with different services and operations to ensure a diverse range of revenues flowing into the project.
+So today we define us as a crypto venture builder, the Medusa Protocol. Betting on disruptive opportunities in the Crypto assets Market. Always growing our protocol with different services and operations to ensure a diverse range of revenues flowing into the project.
 
 Starting with the MDUSA token, following the extensive roadmap in order to keep on delivering and expanding our business to the next level, consolidating us a DeFi Player with a lot of potential to keep on growing.
 
-Everyone at the Medusa Protocol team is aware of the big challenges we are proposing and are very confident at our capabilities to deliver.
+Everyone at the Medusa Protocol team is aware of the big challenges we are proposing and are very confident in our capabilities to deliver.
