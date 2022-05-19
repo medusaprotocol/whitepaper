@@ -21,17 +21,17 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 **When you invest at MDUSA, you invest and get a share of all opportunities being explored, including:**\
 
 
-\-        **Celestia Game,** an NFT cards sustainable play-to-earn game;&#x20;
+\-        [**Medusa Easy Staking Protocol (MESP)**](projects/staking-as-a-service.md)**,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
 
-\-        **Medusa App,** a decentralized live streaming app for everyone to monetize their content through crypto**;**
+\-        [**Celestia Game**](projects/celestia-game.md)**,** an NFT cards sustainable play-to-earn game;
 
-\-        **Ocean Cats,** an original cartoon series, powered by an NFT Collection of 10 000 highschool otters;
+\-        [**OceanCats**](projects/oceancats.md)**,** an original cartoon series, powered by an NFT Collection of 10 000 highschool otters;
 
-\-        [**Medusa Easy Staking Protocol**](projects/staking-as-a-service.md)**,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
+\-        [**NeoSurrealism NFT Collection**](projects/neosurreal-nfts.md), a Medusa partnership with a collective of artists powering a limited edition NFT collection;&#x20;
 
-\-        **NeoSurrealism NFT collection**, a Medusa partnership with a collective of artists powering a limited edition NFT collection.
+\-        [**Live Stream App**](projects/live-streaming-dapp.md)**,** a decentralized live streaming app for everyone to monetize their content through crypto.
 
-&#x20;
+****
 
 **All powered by MDUSA, the ecosystem governance token.**
 
