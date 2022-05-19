@@ -31,7 +31,7 @@ This is a Medusa powered project, with part of the revenues flowing directly int
 3. Getting trendy on big Telegram Groups;
 4. Announcing our news in different channels;&#x20;
 5. Trend on Big Discord Groups;
-6. Getting listed on all crypto listening's websites;
+6. Getting listed on several platforms;
 7. Ads on Poocoin and similar platforms focusing on Celestia Game and our Staking Protocol;
 8. Partnership with Influencers (Twitter, TikTok, Youtube and Instagram);
 9. Partnership with other Crypto Projects;
@@ -39,12 +39,9 @@ This is a Medusa powered project, with part of the revenues flowing directly int
 11. Giveaway of NFTs on Social Media;
 12. Tiktok Challenges;
 13. Press Release on Crypto Media and Mainstream Media;
-14. Celestia Video Teaser;
-15. OceanCats Trailer;
-16. Medusa Staking Pools' Referral System;
-17. OceanCats NFT Mint;
-18. Partnerships with other companies;
-19. Exchanges.
+14. Medusa Staking Pools Referral System;
+15. Partnerships with other companies;
+16. Exchanges.
 
 
 
