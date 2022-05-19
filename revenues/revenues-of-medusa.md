@@ -27,8 +27,6 @@ Funds raised from different projects will be used to sustain and keep on growing
 
 From every created staking pool in our platform, we will charge 2% of the allocated tokens for the pool.&#x20;
 
-Also revenues from our own Medusa's NFT sales and our own Medusa's Liquidity Protocol earnings.&#x20;
-
-A percentage (depending on the activity of the project in question) of the raised funds for sub-projects presales.
+Other revenues include our own Medusa's NFT sales, our Medusa's Liquidity Protocol earnings and a percentage of the raised funds for sub-projects ICO’s (depending on the activity of the project in question).
 
 <img src="../.gitbook/assets/revenues3.png" alt="" data-size="original">

@@ -25,4 +25,4 @@ With MESP, users will be able to create their own staking pool in less than 2 mi
 
 The upfront costs are non-existent as we feel this is a barrier that keeps smaller projects from having this kind of utility, so the only thing we charge is 2% of the allocated tokens for the pool.
 
-Also, you, investor or company, can put your referral code to get a share of this 2% revenue as a form to benefit the users in our ecosystem. More details soon.
+Also, you, investor or company, can use your referral code to get a share of this 2% revenue as a way to benefit the users in our ecosystem. More details soon.
