@@ -14,7 +14,7 @@ As mythologic Medusa, Medusa Protocol aims to be a big player in the Cryptoasset
 
 We are not afraid to disrupt. We love to create new solutions, and Medusa Protocol will be the birthplace and accelerator of all projects we propose to explore.
 
-**MDUSA is the ecosystem token**, where revenues from the different operations within our project are distributed as buyback and burns.&#x20;
+****[**MDUSA is the ecosystem token**](mdusa-token/presenting-mdusa.md), where revenues from the different operations within our project are distributed to the token as buyback and burns.&#x20;
 
 Invest in MDUSA to own a share of all operations and solutions within our ecosystem.
 
