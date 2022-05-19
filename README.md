@@ -27,7 +27,7 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 
 \-        **Ocean Cats,** an original cartoon series, powered by an NFT Collection of 10 000 highschool otters;
 
-\-        **Medusa Easy Staking Protocol,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
+\-        [**Medusa Easy Staking Protocol**](projects/staking-as-a-service.md)**,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
 
 \-        **NeoSurrealism NFT collection**, a Medusa partnership with a collective of artists powering a limited edition NFT collection.
 
