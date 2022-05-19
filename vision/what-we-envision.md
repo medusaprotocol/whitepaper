@@ -30,7 +30,7 @@ Projects created by the Medusa Protocol Team.&#x20;
 
 At the moment, our teams are working at: Celestia (NFT Game), OceanCats (NFT Collection with an animated series), MESP - Medusa Easy Staking Protocol and an App for Live Streams. \[See more about these projects in Section 5 of this Whitepaper]
 
-And from it, we created a whole ecosystem of projects powered by our startup, a Web3 venture builder developing a whole range of services and projects.
+We then decided to create a whole ecosystem of projects powered by our startup, a Web3 venture builder developing a whole range of services and projects.
 
 We started to work on these projects and started to release new information. People from different fields within crypto were getting interested. From the fans of NFTs, to the fans of DeFi tokens, Medusa Protocol is capitalizing this diversity and using it as a path to grow our community as a whole.
 
@@ -38,7 +38,7 @@ We wanted to ensure that investors of MDUSA tokens are awarded by betting on our
 
 ## Medusa Protocol
 
-So today we define us as a crypto venture builder, the Medusa Protocol. Betting on disruptive opportunities in the Crypto assets Market. Always growing our protocol with different services and operations to ensure a diverse range of revenues flowing into the project.
+So today we define ourselves as a crypto venture builder, the Medusa Protocol. Betting on disruptive opportunities in the Crypto assets Market. Always growing our protocol with different services and operations to ensure a diverse range of revenues flowing into the project.
 
 Starting with the MDUSA token, following the extensive roadmap in order to keep on delivering and expanding our business to the next level, consolidating us a DeFi Player with a lot of potential to keep on growing.
 

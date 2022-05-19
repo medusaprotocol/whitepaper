@@ -50,4 +50,4 @@ The nature of this market still has big volatility, which we see as natural, giv
 
 With the potential and current use cases of the blockchain technology, from reserve of value, payment method, crowdfunding source, and store of data; the growing mainstream popularity, more media coverage, more institutional investments and more governmental regulation, it is natural to see this crypto adoption rate to increase in the next years.&#x20;
 
-Given all these factors, at [Medusa Protocol](https://medusaprotocol.com), we are confident in the long-term future and impact of the cryptocurrency market and this is why we position within this industry, as a crypto-powered venture builder betting on the creation and development of innovative solutions within the blockchain.
+Given all these factors, at [Medusa Protocol](https://medusaprotocol.com), we are confident in the long-term future and impact of the cryptocurrency market and this is why we want to position ourselves in this industry, as a crypto-powered venture builder betting on the creation and development of innovative solutions within blockchain environment.

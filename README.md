@@ -18,12 +18,12 @@ We are not afraid to disrupt. We love to create new solutions, and Medusa Protoc
 
 Invest in MDUSA to own a share of all operations and solutions within our ecosystem.
 
-**When you invest at MDUSA, you invest and get a share of all opportunities being explored, including:**\
+**Investing in MDUSA means receiving a share of all opportunities being explored, including:**\
 
 
 \-        [**Medusa Easy Staking Protocol (MESP)**](projects/staking-as-a-service.md)**,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
 
-\-        [**Celestia Game**](projects/celestia-game.md)**,** an NFT cards sustainable play-to-earn game;
+\-        [**Celestia Game**](projects/celestia-game.md)**,** an NFT sustainable play-to-earn card game;
 
 \-        [**OceanCats**](projects/oceancats.md)**,** an original cartoon series, powered by an NFT Collection of 10 000 highschool otters;
 
@@ -35,6 +35,6 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 
 **All powered by MDUSA, the ecosystem governance token.**
 
-All consist of activities which the Medusa Protocol Team proposes to explore, as incorporated at our roadmap.
+These are some of the activities (but not all) which the Medusa Protocol Team proposes to explore, as incorporated in our roadmap.
 
-Throughout the whitepaper, one will go through our vision for Medusa Protocol, our market analysis, our ecosystem, the MDUSA token, utilities, projects, sources of revenues, marketing strategy, about the company and as well as understanding of how we plan to keep on delivering throughout our roadmap.
+Throughout the whitepaper, one will go through our vision for Medusa Protocol, our market analysis, our ecosystem, the MDUSA token, utilities, sub-projects, sources of revenues, marketing strategy, info about the company and as well as understanding of how we plan to keep on delivering throughout our roadmap.

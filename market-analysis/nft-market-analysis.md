@@ -20,4 +20,4 @@ Considering only the biggest NFT marketplaces, the market cap of this section ha
 
 We truly believe that NFTs, as cryptocurrencies, can have a lot of possibilities of use, including investment asset.
 
-That being said, we are inside this segment with some projects bringing different values to each collection of NFTs. Some are artistic, others have game functions and others with a ludic side (meme, laughs etc.).&#x20;
+That being said, we are inside this segment with some projects bringing different values to each collection of NFTs. Some are artistic, others have game functions and others with a ludic side (comic).
