@@ -7,11 +7,11 @@ coverY: 0
 
 At Medusa Protocol, from start we focus on pursuing different opportunities powered by blockchain technology.
 
-We believe that a startup must have a reliable source of revenues, initially, as a source for scalability of Medusa Protocol and the MDUSA token. With this thought in mind, we created our first available protocol:
+We believe that a startup must have a reliable source of revenues initially, as a source for scalability of Medusa Protocol and the MDUSA token. With this thought in mind, we created our first available protocol:
 
 Medusa Easy-Staking Protocol (MESP) is a multi-chain staking service provider.&#x20;
 
-A platform for other crypto projects to easily set up their own staking pools in 2-minutes and embed it at their own websites. Without any upfront cost.
+A platform for other crypto projects to easily set up their own staking pools in 2-minutes and embed them on their own websites. Without any upfront cost.
 
 A platform for investors to find and stake their tokens on a secure platform, being able to find diverse information about each project and pools, provided by the respective owners.
 
