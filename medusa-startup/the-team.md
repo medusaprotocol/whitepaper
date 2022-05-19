@@ -47,13 +47,11 @@ Feel free to contact him through **daniel.ascen@medusaprotocol.com**.
 Marco Failache
 --------------
 
-Partner and CTO at Medusa Protocol, based in Lisboa, Portugal. 25 years old. Marco holds a Master's Degree in Telecommunications Engineer, with his master thesis in 5G technology; and a Bachelor's Degree in Electrotechnical Engineering at IST University of Lisbon.
+Partner and CTO at Medusa Protocol, based in Lisboa, Portugal. 25 years old. Marco holds a Master's Degree in Telecommunications Engineering, with his master thesis in 5G technology; and a Bachelor's Degree in Electrotechnical Engineering at IST University of Lisbon.
 
-At Medusa, Marco works with blockchain development, overseeing all activities on the different projects within Medusa Ecosystem.
+At Medusa, Marco works with blockchain and technological development, overseeing all activities on the different projects within Medusa Ecosystem.
 
-Feel free to contact him through marco.failache@medusaprotocol.com.
-
-\
+Feel free to contact him through **marco.failache@medusaprotocol.com**.\
 \
 ![](../.gitbook/assets/marco.jpg)
 
