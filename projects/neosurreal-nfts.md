@@ -14,10 +14,8 @@ The Persistence of Memory (1931) by Salvador Dalí\
 ![](<../.gitbook/assets/The\_Persistence\_of\_Memory (1).jpg>)
 {% endhint %}
 
-Arts, in the traditional investment market, is a good hedge asset.&#x20;
-
-We are creating real arts, in the common sense of the word, in the NFT space. A new style and a new movement. Linking the past Surrealism and other movements of art in oil painting with the NeoSurrealism in the digital environment.\
+Arts, in the traditional investment market, is a good hedge asset and, some of the NFTs are gaining this sentiment. We are creating real arts, in the common sense of the word, in the NFT space. A new style and a new movement. Linking the past Surrealism and other movements of art in oil painting with the NeoSurrealism in the digital environment.\
 \
 ![](<../.gitbook/assets/medusa art1 (1).jpg>)
 
-These NFTs, as other projects inside Medusa, will have utilities and benefits that will come along with NFT itself. More details to come soon.
+These NFTs, as other projects inside of us, will have benefits that will come along with NFT itself. More details to come.

@@ -32,7 +32,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * Listings on Exchangers
 * MDUSA Bridge
 * OceanCats Merchandising
-* Q3 2022 Earnings Report
+* Q3 2022 Earnings' report
 
 
 
@@ -44,18 +44,18 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * Creators Partnerships
 * $OCATS Token Launch
 * New Staking Pools
-* Q4 2022 Earnings Report
+* Q4 2022 Earnings' report
 
 ### Q2 2023
 
 * Streaming Dapp Launch
-* OceanCats New episodes
+* &#x20;OceanCats New episodes
 * Celestia New Cards
 * Medusa Investment Fund
-* OCATS NGO Partnership
+* OCATs' NGO Partnership
 * Marketing Campaign
 * NeoSurreal Meta-Gallery
-* Q1 2023 Earnings Report
+* Q1 2023 Earnings' report
 
 ### Q3 2023
 
@@ -64,8 +64,9 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * New Acquisitions
 * Social Media NFTs Launch
 * Celestia Board Game
+* New office
 * New partnerships
-* Q2 2023 Earnings Report
+* Q2 2023 Earnings' report
 
 ### Q4 2023
 
@@ -76,7 +77,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * New listing Exchanges
 * MDUSA Giveaway
 * New Staking Protocol
-* Q3 2023 Earnings Report
+* Q3 2023 Earnings' report
 
 ### Q1 2024
 
@@ -85,7 +86,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * Company Funding Round
 * Roadmap Updates
 * MDUSA Meta-Event
-* Q4 2023 Earnings Report
+* Q4 2023 Earnings' report
 
 ### Further Goals
 
