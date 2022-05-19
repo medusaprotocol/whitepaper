@@ -14,6 +14,6 @@ The purpose is to develop several utilities under this ecosystem, with direct an
 
 The Medusa Ecosystem powers crypto solutions with a good variety to bring power to the Medusa Protocol as a whole and, in consequence, to the projects that will enter our ecosystem.
 
-On the Project Section, one may find more information regarding the projects under development.&#x20;
+On the [Project Section](../projects/staking-as-a-service.md), one may find more information regarding the projects under development.&#x20;
 
 All communities from the different projects will be under the Medusa Ecosystem.
