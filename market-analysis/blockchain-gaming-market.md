@@ -1,4 +1,5 @@
 ---
+description: When gaming meets crypto
 cover: ../.gitbook/assets/3 (1).png
 coverY: 0
 ---

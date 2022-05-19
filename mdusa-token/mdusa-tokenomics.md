@@ -1,19 +1,22 @@
 ---
+description: Find out more about the tokenomics of MDUSA
 cover: ../.gitbook/assets/5 (1).png
 coverY: 0
 ---
 
 # Tokenomics
 
-We opt from start with going with a low fee. This will lead to bigger speculation, but also to more volume and holder growth.&#x20;
+MDUSA is a crypto token on the Binance Smart Chains.
 
-The MDUSA token has a transfer fee of 5%.&#x20;
+It is a token with a **fixed supply of 100 000 000 MDUSA tokens** (one hundred million).
 
-3% is allocated for business purposes (marketing, team, structure and other expenditures like that to use as we need);
+In terms of transaction fees, **investing at MDUSA has a transfer fee of 5%, which is allocated for the business and liquidity purposes.**
 
-2% is automatically added to the liquidity pool.
+3% of the fee is for business purposes, including marketing, team, structure and other expenditures;
 
-\
-\
-The total supply of MDUSA is 100 000 000 tokens (one hundred million).
+2% of the fee is allocated to be added to the liquidity pool.
+
+Our focus with these tokenomics is to explore volume and keep on consolidating and raising the liquidity of the MDUSA token.
+
+This will also happen through the buybacks and burns of revenues from the projects within our ecosystem. &#x20;
 

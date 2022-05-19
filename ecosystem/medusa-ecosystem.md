@@ -1,4 +1,5 @@
 ---
+description: Get to know more about Medusa
 cover: ../.gitbook/assets/30.png
 coverY: 0
 ---

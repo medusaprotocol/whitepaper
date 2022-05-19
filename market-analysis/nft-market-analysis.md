@@ -1,4 +1,5 @@
 ---
+description: The NFT market has been growing in popularity
 cover: ../.gitbook/assets/4 (1).png
 coverY: 0
 ---
