@@ -11,6 +11,4 @@ With the company registered, we show to the stakeholders that we are fully commi
 
 Also, this shows credibility for potential investors and opens the possibilities to other types of investment.
 
-With the company registered, we show to the stakeholders that we are fully committed to the process.
-
 Medusa Protocol has no short-sighted vision. We aim big and we aim for the future.
