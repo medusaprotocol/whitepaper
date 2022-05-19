@@ -14,7 +14,7 @@ From start we envisioned the creation of the token that rewards holders for inve
 
 From past experience, we have seen different set of tokenomics that would fit to our project.
 
-
+## Problems to solve
 
 We had some problems to solve to create our Medusa Ecosystem smart contracts. We needed a:
 
@@ -23,9 +23,7 @@ We had some problems to solve to create our Medusa Ecosystem smart contracts. We
 * Token with auto-liquidity increases;
 * Low tax token, while being able to generate revenues.
 
-
-
-With this points in mind, we started to conceptualize the MDUSA token.&#x20;
+With these points in mind, we started to conceptualize the MDUSA token.&#x20;
 
 ## Utilities
 
