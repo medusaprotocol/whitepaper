@@ -19,7 +19,7 @@ Celestia provides real ownership over in-game items by turning them into BEP-721
 
 ## Play to Earn
 
-To catalyze competitive play and stimulate engagement, players can earn meaningful currencies and items, including the BEP-20 $Celestia token, by simply playing the game. The ability to earn tangible rewards serves as the key ingredient to supercharge our future growth.
+To catalyze competitive play and stimulate engagement, players can earn meaningful currencies and items, including the Binance Smart Chain (BSC - BEP-20) $Celestia token, by simply playing the game. The ability to earn tangible rewards serves as the key ingredient to supercharge our future growth.
 
 ## Economics
 
