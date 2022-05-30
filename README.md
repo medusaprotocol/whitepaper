@@ -8,10 +8,6 @@ coverY: 0
 
 **Medusa Protocol is a Crypto Venture Builder** bringing new out-of-the-box blockchain solutions.
 
-In greek mythology, Medusa had a relevant role in history. When she was beheaded by Perseus, she gave life to Pegasus (the winged horse) and Chrysaor. Perseus was one of the biggest heroes of ancient Greece using the Medusa's head and Bellerophon using the horse Pegasus had another relevant role in the history.
-
-As mythologic Medusa, Medusa Protocol aims to be a big player in the Cryptoassets Scenario; modifying for better the place we are inserted while we give life to great and unique projects related to crypto.&#x20;
-
 We are not afraid to disrupt. We love to create new solutions, and Medusa Protocol will be the birthplace and accelerator of all projects we propose to explore.
 
 ****[**MDUSA is the ecosystem token**](mdusa-token/presenting-mdusa.md), where revenues from the different operations within our project are distributed to the token as buyback and burns.&#x20;
