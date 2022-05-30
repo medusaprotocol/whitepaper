@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducing Medusa](README.md)
+* [Medusa Protocol Whitepaper](README.md)
 
 ## 1. The Vision <a href="#vision" id="vision"></a>
 
