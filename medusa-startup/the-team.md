@@ -16,7 +16,7 @@ Medusa Protocol is an international team, with full-time and partial time member
 
 Head of Medusa Protocol, based in Lisbon, Portugal. 24 years old.&#x20;
 
-Co-founder of TaskPrints an online and offline graphic company; and Cuffies.
+Co-founder of TaskPrints an online and offline graphic company; and Cuffies, a DeFi Social Project.
 
 Previous experience on the banking industry, working as an advisor at Alantra in non-perfoming-loan's deals between investment funds and banks.
 
