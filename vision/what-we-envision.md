@@ -36,6 +36,13 @@ We started to work on these projects and started to release new information. Peo
 
 We wanted to ensure that investors of MDUSA tokens are awarded by betting on our success, so we created a set of smart contracts with the direct connection among our blockchain projects, ensuring that all projects within the ecosystem are connected through the MDUSA token.
 
+## Why Medusa?
+
+\
+In greek mythology, Medusa had a relevant role in history. When she was beheaded by Perseus, she gave life to Pegasus (the winged horse) and Chrysaor. Perseus was one of the biggest heroes of ancient Greece using the Medusa's head and Bellerophon using the horse Pegasus had another relevant role in the history.
+
+As mythologic Medusa, Medusa Protocol aims to be a big player in the crypto-assets scenario; modifying for better the place we are inserted while we give life to great and unique projects related to crypto.&#x20;
+
 ## Medusa Protocol
 
 So today we define ourselves as a crypto venture builder, the Medusa Protocol. Betting on disruptive opportunities in the Crypto assets Market. Always growing our protocol with different services and operations to ensure a diverse range of revenues flowing into the project.

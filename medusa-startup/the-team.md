@@ -79,3 +79,20 @@ Feel free to contact him through **david.caldeira@medusaprotocol.com**.
 
 \
 ![](../.gitbook/assets/godGLNmN\_400x400.jpg)
+
+
+
+## Olaru George
+
+
+
+Main Designer at Medusa Protocol, based in Germany. 26 years old. Lead Designer of the OceanCats NFT Collection.
+
+Olaru arrived to the team in March 2022, being the creative head drawing the traits and expressions on our animated cartoons.&#x20;
+
+Passionate about community building, design, NFTs and the crypto world.
+
+Feel free to contact him at <mark style="color:yellow;">Telegram</mark>.
+
+\
+![](../.gitbook/assets/photo\_2022-05-13\_04-22-50.jpg)
