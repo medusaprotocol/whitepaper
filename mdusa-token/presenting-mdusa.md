@@ -37,6 +37,6 @@ These as just the initial utilities as the team is always thinking of new ways t
 
 ## Utility token
 
-The Medusa Token $MDUSA will be the governance token of the Medusa Protocol Ecosystem.&#x20;
+The #MDUSA Token will be the governance token of the Medusa Protocol Ecosystem.&#x20;
 
 All other tokens from Medusa's sub-projects will be linked to the governance token through fees.
