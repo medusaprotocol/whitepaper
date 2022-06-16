@@ -6,7 +6,7 @@ coverY: 0
 
 # Medusa Protocol Whitepaper
 
-**Medusa Protocol is a Crypto Venture Builder** bringing new out-of-the-box blockchain solutions.
+**Medusa Protocol is a web3 ecosystem** bringing new out-of-the-box blockchain solutions.
 
 We love creating, and Medusa Protocol is the birthplace and accelerator of all projects we propose to explore.
 
