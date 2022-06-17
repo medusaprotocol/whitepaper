@@ -38,7 +38,6 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 
 ### Q1 2023
 
-* Beta Social Live Streaming Dapp
 * Celestia Launch
 * Roadmap Updates
 * Creators Partnerships
@@ -48,7 +47,6 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 
 ### Q2 2023
 
-* Streaming Dapp Launch
 * OceanCats New episodes
 * Celestia New Cards
 * Medusa Investment Fund
@@ -89,6 +87,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 
 ### Further Goals
 
+* Medusa DApp
 * Medusa PoS Chain
 * Medusa Liquidity Protocol
 * Medusa DEX
