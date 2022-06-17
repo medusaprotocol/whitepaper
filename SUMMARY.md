@@ -29,7 +29,6 @@
 * [Celestia Game](projects/celestia-game.md)
 * [OceanCats](projects/oceancats.md)
 * [NeoSurrealism NFTs](projects/neosurreal-nfts.md)
-* [Live Streaming Dapp](projects/live-streaming-dapp.md)
 
 ## 6. Sources of Revenues  <a href="#revenues" id="revenues"></a>
 
