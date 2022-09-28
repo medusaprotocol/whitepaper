@@ -28,7 +28,7 @@ Projects with their own whitepaper and roadmap. Projects supported and supportin
 
 Projects created by the Medusa Protocol Team.&#x20;
 
-At the moment, our teams are working at: Celestia (NFT Game), OceanCats (NFT Collection with an animated series), MESP - Medusa Easy Staking Protocol and an App for Live Streams. \[See more about these projects in Section 5 of this Whitepaper]
+At the moment, our team is working at: Celestia (NFT Game), OceanCats (NFT Collection with an animated series), MESP - Medusa Easy Staking Protocol and an App for Live Streams. \[See more about these projects in Section 5 of this Whitepaper]
 
 We then decided to create a whole ecosystem of projects powered by our startup, a Web3 venture builder developing a whole range of services and projects.
 
