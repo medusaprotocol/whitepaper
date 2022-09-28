@@ -19,7 +19,7 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 * [<mark style="color:yellow;">**Medusa Easy Staking Protocol (MESP)**</mark>](projects/staking-as-a-service.md)**,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
 * [<mark style="color:yellow;">**Celestia Game**</mark>](projects/celestia-game.md)**,** an NFT sustainable play-to-earn card game;
 * [<mark style="color:yellow;">**OceanCats**</mark>](projects/oceancats.md)**,** an original cartoon series, powered by an NFT Collection of 10 000 highschool otters;
-* [<mark style="color:yellow;">**NeoSurrealism NFT Collection**</mark>](projects/neosurreal-nfts.md), a Medusa partnership with a collective of artists powering a limited edition NFT collection.
+* [<mark style="color:yellow;">**NeoSurrealism NFT Collection**</mark>](broken-reference), a Medusa partnership with a collective of artists powering a limited edition NFT collection.
 
 **All powered by MDUSA, the ecosystem governance token.**
 
