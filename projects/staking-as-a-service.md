@@ -27,4 +27,4 @@ The upfront costs are non-existent as we feel this is a barrier that keeps small
 
 Also, you, investor or company, can use your referral code to get a share of this 2% revenue as a way to benefit the users in our ecosystem.&#x20;
 
-Find out more about the MESP Protocol at medusaprotocol.com/staking-a-service.
+Find out more about the MESP Protocol at [our website.](https://medusaprotocol.com/staking-as-a-service)
