@@ -10,7 +10,7 @@ coverY: 0
 
 We love creating, and Medusa Protocol is the birthplace and accelerator of all projects we propose to explore.
 
-<mark style="color:yellow;"><mark style="color:red;"><mark style="color:blue;">****<mark style="color:blue;"><mark style="color:red;"></mark>[<mark style="color:yellow;">**MDUSA is the ecosystem token**</mark>](mdusa-token/presenting-mdusa.md)<mark style="color:yellow;">,</mark> where revenues from the different operations within our project are distributed to the token as buyback and burns.&#x20;
+<mark style="color:yellow;"><mark style="color:red;"><mark style="color:blue;">****<mark style="color:blue;"><mark style="color:red;"></mark>[<mark style="color:yellow;">**MDUSA is the ecosystem token**</mark>](mdusa-token/presenting-mdusa.md)<mark style="color:yellow;">,</mark> where revenues from the different operations within our project are distributed to the token as buyback and burns. MDUSA will come in Q1 2023.
 
 Invest in MDUSA to own a share of all operations and solutions within our ecosystem.
 
@@ -19,7 +19,6 @@ Invest in MDUSA to own a share of all operations and solutions within our ecosys
 * [<mark style="color:yellow;">**Medusa Easy Staking Protocol (MESP)**</mark>](projects/staking-as-a-service.md)**,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
 * [<mark style="color:yellow;">**Celestia Game**</mark>](projects/celestia-game.md)**,** an NFT sustainable play-to-earn card game;
 * [<mark style="color:yellow;">**OceanCats**</mark>](projects/oceancats.md)**,** an original cartoon series, powered by an NFT Collection of 10 000 highschool otters;
-* [<mark style="color:yellow;">**NeoSurrealism NFT Collection**</mark>](broken-reference), a Medusa partnership with a collective of artists powering a limited edition NFT collection.
 
 **All powered by MDUSA, the ecosystem governance token.**
 
