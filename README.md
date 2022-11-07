@@ -10,7 +10,7 @@ coverY: 0
 
 We love creating, and Medusa Protocol is the birthplace and accelerator of all projects we propose to explore.
 
-<mark style="color:yellow;"><mark style="color:red;"><mark style="color:blue;">****<mark style="color:blue;"><mark style="color:red;"></mark>[<mark style="color:yellow;">**MDUSA is the ecosystem token**</mark>](mdusa-token/presenting-mdusa.md)<mark style="color:yellow;">,</mark> where revenues from the different operations within our project are distributed to the token as buyback and burns.&#x20;
+<mark style="color:yellow;"><mark style="color:red;"><mark style="color:blue;">****<mark style="color:blue;"><mark style="color:red;"></mark>[<mark style="color:yellow;">**MDUSA is the ecosystem token**</mark>](mdusa-token/presenting-mdusa.md)<mark style="color:yellow;">,</mark> where revenues from the different operations within our project are distributed to the token as buyback and burns. MDUSA will come in Q1 2023.
 
 Invest in MDUSA to own a share of all operations and solutions within our ecosystem.
 
