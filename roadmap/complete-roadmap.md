@@ -15,7 +15,6 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 * Concept Introduction
 * &#x20;Company Announcement
 * &#x20;Easy-staking pools protocol launch
-* &#x20;MDUSA Token Launch
 * &#x20;OceanCats NFT Release
 * &#x20;OceanCats Pilot Cartoon Episode
 * &#x20;Staking Pools Release
@@ -25,12 +24,9 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 
 ### Q4 2022
 
-* Celestia Beta Launch
-* $CELESTIA Token Launch&#x20;
 * NeoSurreal NFT Release
 * OceanCats Cartoon Series
 * Listings on Exchangers
-* MDUSA Bridge
 * OceanCats Merchandising
 * Q3 2022 Earnings Report
 
@@ -38,6 +34,7 @@ We divided our roadmap into quarters. All is subject to improvements. These are 
 
 ### Q1 2023
 
+* MDUSA Token Launch
 * Celestia Launch
 * Roadmap Updates
 * Creators Partnerships
