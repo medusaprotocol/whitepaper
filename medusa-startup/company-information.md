@@ -5,7 +5,7 @@ coverY: 0
 
 # Company Information
 
-Medusa Protocol is a registered company in Lisbon, Portugal with the Tax Number: 516795937.
+Medusa Protocol is a registered company in Lisbon, Portugal.
 
 With the company registered, we show to the stakeholders that we are fully committed to the process.
 
