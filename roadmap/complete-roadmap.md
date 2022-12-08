@@ -10,84 +10,70 @@ coverY: 0
 
 We divided our roadmap into quarters. All is subject to improvements. These are estimated dates for our deliverables.
 
+### Q2 2022
+
+* Concept Development
+* Website Release
+* Whitepaper Release
+* MESP - Development
+
 ### Q3 2022
 
-* Concept Introduction
-* &#x20;Company Announcement
-* &#x20;Easy-staking pools protocol launch
-* &#x20;OceanCats NFT Release
-* &#x20;OceanCats Pilot Cartoon Episode
-* &#x20;Staking Pools Release
-* &#x20;Celestia Trailer
-* &#x20;First Listings
-* &#x20;First Press Releases
+* OceanCats - Initial Arts
+* MESP - Dapp Testing
 
 ### Q4 2022
 
-* NeoSurreal NFT Release
-* OceanCats Cartoon Series
-* Listings on Exchangers
-* OceanCats Merchandising
-* Q3 2022 Earnings Report
-
-
+* MESP - Dapp Launch
+* Community Development
+* OceanCats - Selected Minting
+* OceanCats - Trailer
 
 ### Q1 2023
 
-* MDUSA Token Launch
-* Celestia Launch
-* Roadmap Updates
-* Creators Partnerships
-* $OCATS Token Launch
-* New Staking Pools
-* Q4 2022 Earnings Report
+* $MDUSA - Token Launch
+* MESP - Partnerships
+* MESP - Service on New Blockchain
+* OceanCats - Pilot Cartoon Episode
+* TokenFactory - Launch
+* Business Partnerships
 
 ### Q2 2023
 
-* OceanCats New episodes
-* Celestia New Cards
-* Medusa Investment Fund
-* OCATS NGO Partnership
-* Marketing Campaign
-* NeoSurreal Meta-Gallery
+* OceanCats - NFTs Release
+* OceanCats - First Episodes
 * Q1 2023 Earnings Report
 
 ### Q3 2023
 
-* Medusa Party
-* Business Partnerships
-* New Acquisitions
-* Social Media NFTs Launch
-* Celestia Board Game
-* New partnerships
+* $MDUSA - Listings on Exchanges
+* OceanCats - New Episodes
+* OceanCats - Merchandising
+* OceanCats - Creators Partnerships
 * Q2 2023 Earnings Report
 
 ### Q4 2023
 
-* OceanCats New Season
-* New Medusa NFTs
-* Celestia Update
-* DeFi Social Media Update
-* New listing Exchanges
-* MDUSA Giveaway
-* New Staking Protocol
+* $OCATS – Token Launch
+* OceanCats - New Season
+* Medusa NFTs
+* $MDUSA - New Listing on Exchanges
+* $MDUSA - Giveaway
 * Q3 2023 Earnings Report
 
 ### Q1 2024
 
-* Celestia Live Tournament
-* New Launches
+* $OCATS - Listing on Exchanges
+* Celestia - Game Beta Launch
 * Company Funding Round
-* Roadmap Updates
-* MDUSA Meta-Event
+* Medusa Meta-Event
 * Q4 2023 Earnings Report
 
-### Further Goals
+### Further goals
 
-* Medusa DApp
+* Medusa Protocol DApp
 * Medusa PoS Chain
-* Medusa Liquidity Protocol
-* Medusa DEX
 * MDUSA Wallet
 * Medusa Credit Card
-
+* Medusa Investment Fund
+* Celestia Live Tournament
