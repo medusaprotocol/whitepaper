@@ -13,7 +13,7 @@ We love creating, and Medusa Protocol is the birthplace and accelerator of all p
 Our **projects** at the moment include:
 
 * [<mark style="color:yellow;">**Medusa Easy Staking Protocol (MESP)**</mark>](projects/staking-as-a-service.md)**,** a completely unique staking protocol where holders and project owners can create their own pools in 2 minutes and add it to their websites;
-* Medusa Token Launcher,
+* <mark style="color:yellow;">****</mark>[<mark style="color:yellow;">**Medusa Token Launcher**</mark>](https://medusa-protocol.gitbook.io/whitepaper/projects/medusa-token-launcher), platform where everyone can easily launch their token;
 * [<mark style="color:yellow;">**OceanCats**</mark>](projects/oceancats.md)**,** an original cartoon series, powered by an NFT Collection of 10 000 highschool otters;
 * [<mark style="color:yellow;">**Celestia Game**</mark>](projects/celestia-game.md)**,** an NFT sustainable play-to-earn card game in developments.
 
