@@ -5,7 +5,7 @@ coverY: 781.9274611398964
 
 # Medusa Token Launcher
 
-Medusa Token Launcher is a platform where everyone can easily launch their token.
+Medusa Token Launcher is the new addition to our portfolio of DeFi and Web3 services. It is a platform where everyone can easily launch their token.
 
 Our Token Launcher will give access to everyday people to launch their token even with few blockchain knowledge.
 
