@@ -8,9 +8,9 @@ coverY: 0
 
 **Medusa Protocol is built with the future always in mind.** A startup seeking to disrupt the environment with completely unique solutions and creations.&#x20;
 
-We have a different vision for crypto. We see it as the medium to build a community of supporters around a project. The medium to generate revenues to compensate the investors directly through sales and revenues from our services.&#x20;
+We have a different vision for crypto. We see it as the medium to build a community of supporters around a project. The manner to generate revenues while compensating the investors directly in a clear way.&#x20;
 
-MDUSA is a different type of crypto asset. A utility-powered crypto token relying less on market volatility, and more on the services that the startup provides.&#x20;
+MDUSA is a different type of crypto asset. A utility-powered crypto token that relies less on market volatility, and more on the services that the startup provides.&#x20;
 
 ## The beginning
 
