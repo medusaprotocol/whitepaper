@@ -26,8 +26,8 @@
 ## 5. Projects <a href="#projects" id="projects"></a>
 
 * [MESP - Easy Staking Protocol](projects/staking-as-a-service.md)
-* [Celestia Game](projects/celestia-game.md)
 * [OceanCats](projects/oceancats.md)
+* [Celestia Game](projects/celestia-game.md)
 
 ## 6. Sources of Revenues  <a href="#revenues" id="revenues"></a>
 
