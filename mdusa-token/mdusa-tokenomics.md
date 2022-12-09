@@ -18,7 +18,7 @@ In terms of transaction fees, **investing at MDUSA has a transfer fee of 5%, whi
 
 Our focus with these tokenomics is to explore volume and keep on consolidating and raising the liquidity of the MDUSA token.
 
-This will also happen through the buybacks and burns of revenues from the projects within our ecosystem. &#x20;
+This will also happen through the buybacks and burns through revenues from the projects within our ecosystem. &#x20;
 
 ## Token Allocation
 
