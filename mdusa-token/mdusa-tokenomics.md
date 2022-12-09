@@ -6,7 +6,7 @@ coverY: 0
 
 # Tokenomics
 
-MDUSA is a crypto token on the Binance Smart Chain.
+MDUSA is a crypto token on Ethereum.
 
 It's a token with a **fixed supply of 100 000 000 MDUSA tokens** (one hundred million).
 
