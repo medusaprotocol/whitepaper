@@ -26,6 +26,7 @@
 ## 5. Projects <a href="#projects" id="projects"></a>
 
 * [MESP - Easy Staking Protocol](projects/staking-as-a-service.md)
+* [Medusa Token Launcher](projects/medusa-token-launcher.md)
 * [OceanCats](projects/oceancats.md)
 * [Celestia Game](projects/celestia-game.md)
 
