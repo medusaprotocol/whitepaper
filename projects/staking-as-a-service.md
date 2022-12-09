@@ -23,6 +23,6 @@ This feature saves a lot of time and funds for project developers looking to add
 
 With MESP, users will be able to create their own staking pool in less than 2 minutes in several chains such as BSC, ETH, SOL and POLYGON, choose the rewards token that they want (can even be our own $MDUSA), choose the staked token allocation for the pool, choose the APY for the pool and we will calculate the duration of the pool for you.
 
-Also, you, investor or company, can use your referral code to get a share of this 25% of the staking pools built through your unique referral code. Apply [here.](../market-analysis/defi-market-analysis.md)&#x20;
+Also, anyone (seller, investor, or company) can use a specific referral code to get a share of the staking pools built through your unique referral code. Apply [here.](../market-analysis/defi-market-analysis.md)&#x20;
 
 Find out more about the MESP Protocol at [our website.](https://medusaprotocol.com/staking-as-a-service)
