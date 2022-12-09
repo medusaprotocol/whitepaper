@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/banner token launcher.png
-coverY: 0
+coverY: 781.9274611398964
 ---
 
 # Medusa Token Launcher
